@@ -1,0 +1,561 @@
+Order ID,Order Date,Customer ID,Customer Name,Region,City,Salesperson,Product,Quantity,Unit Price,Discount %,Payment Method,Order Status
+ORD-00001,2025-08-01,CUST-0003,Komal Chauhan,Central,Bhopal,Arjun Mehta,ViewClear 24-inch Monitor,4,13235.29,0,Credit Card,Delivered
+ORD-00002,2025-08-01,CUST-0033,Tanvi Kumar,Central,Kota,Arjun Mehta,FlexiCable Type-C 1m,4,254.39,5,UPI,Delivered
+ORD-00003,2025-08-01,CUST-0194,Deepak Nair,Central,Kota,Vikram Singh,ActionCam Mini 4K,3,7470.79,0,Debit Card,Delivered
+ORD-00004,2025-08-01,CUST-0141,Harsh Gupta,East,Patna,Neha Gupta,SoundWave Bluetooth Speaker,1,1865.91,0,Credit Card,Delivered
+ORD-00005,2025-08-02,CUST-0102,Shreya Iyer,West,Mumbai,Priya Nair,ClickPro Wireless Mouse,2,769.93,5,UPI,Pending
+ORD-00006,2025-08-02,CUST-0014,Harsh Joshi,East,Kolkata,Arjun Mehta,HubConnect 7-in-1 USB-C Hub,1,1845.62,10,Credit Card,Delivered
+ORD-00007,2025-08-03,CUST-0198,Divya Sharma,South,Chennai,Vikram Singh,PowerCharge 20W Adapter,2,516.37,15,Credit Card,Delivered
+ORD-00008,2025-08-03,CUST-0104,Anjali Sharma,South,Chennai,Suresh Kumar,PulseFit Smartwatch,1,6502.24,5,Credit Card,Delivered
+ORD-00009,2025-08-04,CUST-0035,Komal Iyer,Central,Kota,Suresh Kumar,TypeMaster Mechanical Keyboard,6,3126.02,5,Net Banking,Pending
+ORD-00010,2025-08-04,CUST-0109,Divya Bansal,South,Bengaluru,Kavita Rao,KidSafe GPS Watch,4,3229.52,5,Credit Card,Delivered
+ORD-00011,2025-08-05,CUST-0175,Yash Kumar,West,Ahmedabad,Rohit Sharma,HomeSecure Wi-Fi Camera,3,4100.45,20,Credit Card,Delivered
+ORD-00012,2025-08-05,CUST-0197,Anjali Kumar,Central,Kota,Kavita Rao,HomeView 360 Camera,5,5563.83,10,UPI,Delivered
+ORD-00013,2025-08-05,CUST-0218,Nikhil Chauhan,East,Patna,Vikram Singh,SoundWave Bluetooth Speaker,3,1848.94,5,Credit Card,Delivered
+ORD-00014,2025-08-06,CUST-0150,Aditya Joshi,Central,Bhopal,Suresh Kumar,PulseFit Smartwatch,3,6599.22,0,UPI,Delivered
+ORD-00015,2025-08-07,CUST-0222,Shreya Kumar,East,Patna,Suresh Kumar,DeskLite LED Lamp,2,1021.31,10,Credit Card,Pending
+ORD-00016,2025-08-07,CUST-0156,Aman Joshi,South,Bengaluru,Priya Nair,StudioMax Over-Ear Headphones,3,2894.93,15,Credit Card,Delivered
+ORD-00017,2025-08-08,CUST-0112,Shreya Rao,North,Delhi,Vikram Singh,ViewClear 24-inch Monitor,3,13087.08,5,UPI,Pending
+ORD-00018,2025-08-09,CUST-0138,Nikhil Mehta,Central,Kota,Arjun Mehta,TypeMaster Mechanical Keyboard,3,3303.87,0,UPI,Delivered
+ORD-00019,2025-08-10,CUST-0011,Simran Rao,East,Patna,Kavita Rao,SmartGlow LED Bulb (Wi-Fi),5,822.15,5,Debit Card,Delivered
+ORD-00020,2025-08-10,CUST-0162,Yash Gupta,North,Delhi,Arjun Mehta,FitTrack Smart Band,3,1976.47,5,Credit Card,Returned
+ORD-00021,2025-08-10,CUST-0128,Karan Bansal,South,Chennai,Ananya Verma,ActionCam Mini 4K,2,7220.54,5,Net Banking,Cancelled
+ORD-00022,2025-08-12,CUST-0214,Divya Kumar,West,Mumbai,Suresh Kumar,BassPro Wireless Earbuds,2,1321.77,5,Credit Card,Delivered
+ORD-00023,2025-08-16,CUST-0210,Sanjay Reddy,North,Delhi,Arjun Mehta,FlexiCable Type-C 1m,4,250.11,5,UPI,Delivered
+ORD-00024,2025-08-17,CUST-0050,Yash Nair,West,Ahmedabad,Arjun Mehta,EchoBeat Neckband,3,900.86,10,UPI,Delivered
+ORD-00025,2025-08-18,CUST-0016,Divya Verma,South,Bengaluru,Ananya Verma,VoiceHub Smart Speaker,5,4559.54,10,Credit Card,Cancelled
+ORD-00026,2025-08-18,CUST-0116,Vivek Iyer,Central,Bhopal,Suresh Kumar,StudioMax Over-Ear Headphones,1,2745.51,0,Credit Card,Returned
+ORD-00027,2025-08-19,CUST-0168,Karan Nair,West,Mumbai,Vikram Singh,HubConnect 7-in-1 USB-C Hub,4,1823.03,15,UPI,Returned
+ORD-00028,2025-08-20,CUST-0139,Pooja Chauhan,West,Ahmedabad,Neha Gupta,VoiceHub Smart Speaker,4,4541.48,10,UPI,Delivered
+ORD-00029,2025-08-20,CUST-0192,Aditya Malhotra,Central,Kota,Rohit Sharma,TypeMaster Mechanical Keyboard,1,3225.3,20,UPI,Delivered
+ORD-00030,2025-08-21,CUST-0161,Divya Joshi,West,Ahmedabad,Suresh Kumar,ActionCam Mini 4K,3,7219.06,5,UPI,Returned
+ORD-00031,2025-08-21,CUST-0035,Komal Iyer,Central,Kota,Kavita Rao,ClickPro Wireless Mouse,3,802.77,5,Credit Card,Delivered
+ORD-00032,2025-08-23,CUST-0170,Aman Kumar,East,Kolkata,Suresh Kumar,VoiceHub Smart Speaker,1,4421.26,10,Debit Card,Delivered
+ORD-00033,2025-08-24,CUST-0175,Yash Kumar,West,Ahmedabad,Ananya Verma,SoundWave Bluetooth Speaker,2,1950.15,0,Cash on Delivery,Delivered
+ORD-00034,2025-08-25,CUST-0028,Pallavi Joshi,West,Ahmedabad,Arjun Mehta,BassPro Wireless Earbuds,2,1290.65,0,Credit Card,Returned
+ORD-00035,2025-08-26,CUST-0145,Anjali Mehta,East,Patna,Kavita Rao,HomeView 360 Camera,4,5676.26,10,UPI,Cancelled
+ORD-00036,2025-08-26,CUST-0177,Sneha Nair,Central,Kota,Kavita Rao,MagGrip Phone Stand,5,360.09,0,Net Banking,Delivered
+ORD-00037,2025-08-26,CUST-0005,Karan Gupta,South,Bengaluru,Rohit Sharma,PowerCharge 20W Adapter,1,483.12,0,Debit Card,Delivered
+ORD-00038,2025-08-28,CUST-0229,Harsh Singh,North,Jaipur,Rohit Sharma,KidSafe GPS Watch,3,3208.46,15,Cash on Delivery,Returned
+ORD-00039,2025-08-28,CUST-0148,Vivek Bansal,West,Mumbai,Arjun Mehta,PowerCharge 20W Adapter,2,500.63,5,Credit Card,Delivered
+ORD-00040,2025-08-29,CUST-0069,Meera Gupta,West,Mumbai,Priya Nair,FitTrack Smart Band,2,2076.19,5,Cash on Delivery,Pending
+ORD-00041,2025-08-29,CUST-0010,Sanjay Verma,North,Jaipur,Priya Nair,StudioMax Over-Ear Headphones,2,2691.5,5,UPI,Delivered
+ORD-00042,2025-08-29,CUST-0223,Shreya Mehta,West,Ahmedabad,Vikram Singh,HubConnect 7-in-1 USB-C Hub,1,1829.16,5,Net Banking,Delivered
+ORD-00043,2025-08-29,CUST-0014,Harsh Joshi,East,Kolkata,Priya Nair,HomeView 360 Camera,1,5624.61,20,Debit Card,Delivered
+ORD-00044,2025-08-29,CUST-0201,Sneha Reddy,South,Chennai,Suresh Kumar,SmartGlow LED Bulb (Wi-Fi),2,810.39,5,UPI,Delivered
+ORD-00045,2025-08-31,CUST-0209,Meera Rao,West,Ahmedabad,Neha Gupta,ArmorShield Phone Case,2,351.7,0,Cash on Delivery,Delivered
+ORD-00046,2025-08-31,CUST-0195,Tanvi Sharma,Central,Bhopal,Rohit Sharma,ActionCam Mini 4K,2,7291.38,5,UPI,Delivered
+ORD-00047,2025-09-01,CUST-0141,Harsh Gupta,East,Patna,Ananya Verma,SmartPlug Mini,1,872.91,0,Cash on Delivery,Delivered
+ORD-00048,2025-09-02,CUST-0165,Aman Bansal,West,Ahmedabad,Rohit Sharma,KidSafe GPS Watch,3,3186.2,20,UPI,Cancelled
+ORD-00049,2025-09-03,CUST-0085,Sneha Rao,East,Kolkata,Vikram Singh,HubConnect 7-in-1 USB-C Hub,1,1731.53,20,Debit Card,Cancelled
+ORD-00050,2025-09-04,CUST-0135,Yash Agarwal,West,Mumbai,Rohit Sharma,HubConnect 7-in-1 USB-C Hub,2,1794.7,10,Cash on Delivery,Delivered
+ORD-00051,2025-09-04,CUST-0005,Karan Gupta,South,Bengaluru,Neha Gupta,HubConnect 7-in-1 USB-C Hub,1,1821.61,0,Debit Card,Delivered
+ORD-00052,2025-09-04,CUST-0116,Vivek Iyer,Central,Bhopal,Suresh Kumar,ViewClear 24-inch Monitor,1,13218.19,0,Credit Card,Delivered
+ORD-00053,2025-09-04,CUST-0005,Karan Gupta,South,Bengaluru,Rohit Sharma,PulseFit Smartwatch,1,6259.75,0,Net Banking,Delivered
+ORD-00054,2025-09-04,CUST-0168,Karan Nair,West,Mumbai,Arjun Mehta,BassPro Wireless Earbuds,3,1315.94,15,Credit Card,Delivered
+ORD-00055,2025-09-04,CUST-0073,Divya Gupta,North,Delhi,Suresh Kumar,ClickPro Wireless Mouse,1,802.2,10,UPI,Delivered
+ORD-00056,2025-09-07,CUST-0205,Yash Mehta,East,Patna,Ananya Verma,MagGrip Phone Stand,1,345.65,10,UPI,Delivered
+ORD-00057,2025-09-07,CUST-0141,Harsh Gupta,East,Patna,Neha Gupta,HubConnect 7-in-1 USB-C Hub,2,1864.77,5,Net Banking,Delivered
+ORD-00058,2025-09-08,CUST-0024,Rahul Verma,South,Chennai,Ananya Verma,VoiceHub Smart Speaker,4,4550.95,5,Cash on Delivery,Delivered
+ORD-00059,2025-09-09,CUST-0227,Riya Singh,Central,Kota,Ananya Verma,ActionCam Mini 4K,4,7708.72,10,Net Banking,Delivered
+ORD-00060,2025-09-09,CUST-0214,Divya Kumar,West,Mumbai,Priya Nair,TypeMaster Mechanical Keyboard,5,3095.89,10,Credit Card,Delivered
+ORD-00061,2025-09-10,CUST-0210,Sanjay Reddy,North,Delhi,Kavita Rao,MagGrip Phone Stand,2,351.04,0,Credit Card,Delivered
+ORD-00062,2025-09-11,CUST-0221,Pallavi Nair,Central,Kota,Kavita Rao,FlexiCable Type-C 1m,1,258.69,5,UPI,Delivered
+ORD-00063,2025-09-13,CUST-0146,Rajesh Chauhan,North,Jaipur,Rohit Sharma,KidSafe GPS Watch,1,3366.15,0,UPI,Delivered
+ORD-00064,2025-09-13,CUST-0215,Sneha Chauhan,South,Chennai,Vikram Singh,ViewClear 24-inch Monitor,1,13214.91,20,Credit Card,Delivered
+ORD-00065,2025-09-13,CUST-0096,Harsh Nair,South,Chennai,Ananya Verma,HomeSecure Wi-Fi Camera,2,4042.9,5,Debit Card,Delivered
+ORD-00066,2025-09-13,CUST-0138,Nikhil Mehta,Central,Kota,Suresh Kumar,FitTrack Smart Band,1,2037.61,10,UPI,Returned
+ORD-00067,2025-09-14,CUST-0085,Sneha Rao,East,Kolkata,Ananya Verma,SoundWave Bluetooth Speaker,1,1943.7,5,Debit Card,Delivered
+ORD-00068,2025-09-14,CUST-0078,Rajesh Joshi,North,Delhi,Suresh Kumar,KidSafe GPS Watch,3,3282.55,5,Debit Card,Delivered
+ORD-00069,2025-09-15,CUST-0043,Simran Iyer,East,Patna,Neha Gupta,ActionCam Mini 4K,2,7358.15,0,UPI,Delivered
+ORD-00070,2025-09-15,CUST-0154,Aman Chauhan,Central,Bhopal,Ananya Verma,SmartGlow LED Bulb (Wi-Fi),1,790.74,10,Debit Card,Pending
+ORD-00071,2025-09-15,CUST-0153,Anjali Nair,North,Jaipur,Vikram Singh,FitTrack Smart Band,1,2073.65,5,Debit Card,Delivered
+ORD-00072,2025-09-16,CUST-0163,Komal Joshi,North,Delhi,Priya Nair,BassPro Wireless Earbuds,2,1294.18,0,UPI,Delivered
+ORD-00073,2025-09-16,CUST-0093,Nikhil Kumar,East,Kolkata,Rohit Sharma,EchoBeat Neckband,5,895.03,10,UPI,Delivered
+ORD-00074,2025-09-16,CUST-0068,Sneha Singh,West,Ahmedabad,Vikram Singh,EchoBeat Neckband,3,884.92,10,Debit Card,Delivered
+ORD-00075,2025-09-16,CUST-0148,Vivek Bansal,West,Mumbai,Priya Nair,VoiceHub Smart Speaker,2,4602.07,0,UPI,Delivered
+ORD-00076,2025-09-17,CUST-0024,Rahul Verma,South,Chennai,Arjun Mehta,StudioMax Over-Ear Headphones,1,2852.47,15,Credit Card,Delivered
+ORD-00077,2025-09-17,CUST-0176,Aman Verma,East,Kolkata,Arjun Mehta,VoiceHub Smart Speaker,2,4325.6,5,Cash on Delivery,Delivered
+ORD-00078,2025-09-17,CUST-0225,Sanjay Chauhan,West,Ahmedabad,Neha Gupta,ClickPro Wireless Mouse,1,790.81,15,UPI,Delivered
+ORD-00079,2025-09-18,CUST-0017,Vivek Nair,West,Ahmedabad,Arjun Mehta,ViewClear 24-inch Monitor,1,13231.67,10,Cash on Delivery,Returned
+ORD-00080,2025-09-19,CUST-0084,Rahul Singh,East,Kolkata,Kavita Rao,FitTrack Smart Band,1,2071.9,0,UPI,Cancelled
+ORD-00081,2025-09-20,CUST-0024,Rahul Verma,South,Chennai,Ananya Verma,SmartGlow LED Bulb (Wi-Fi),2,811.4,15,UPI,Cancelled
+ORD-00082,2025-09-23,CUST-0036,Harsh Rao,North,Jaipur,Ananya Verma,SmartGlow LED Bulb (Wi-Fi),1,817.2,5,Debit Card,Delivered
+ORD-00083,2025-09-24,CUST-0211,Divya Reddy,West,Mumbai,Suresh Kumar,SmartGlow LED Bulb (Wi-Fi),2,779.03,20,Credit Card,Delivered
+ORD-00084,2025-09-25,CUST-0013,Vivek Verma,Central,Kota,Rohit Sharma,HomeView 360 Camera,1,5329.98,5,UPI,Delivered
+ORD-00085,2025-09-27,CUST-0127,Nikhil Reddy,Central,Kota,Priya Nair,DeskLite LED Lamp,2,1006.51,5,Cash on Delivery,Pending
+ORD-00086,2025-09-27,CUST-0187,Simran Bansal,North,Jaipur,Rohit Sharma,StudioMax Over-Ear Headphones,1,2826.09,0,Net Banking,Delivered
+ORD-00087,2025-09-27,CUST-0078,Rajesh Joshi,North,Delhi,Neha Gupta,FlexiCable Type-C 1m,3,254.53,15,Credit Card,Delivered
+ORD-00088,2025-09-28,CUST-0107,Riya Bansal,West,Mumbai,Arjun Mehta,TypeMaster Mechanical Keyboard,1,3154.15,15,Debit Card,Cancelled
+ORD-00089,2025-09-28,CUST-0029,Isha Gupta,South,Chennai,Suresh Kumar,PulseFit Smartwatch,3,6667.08,5,Net Banking,Delivered
+ORD-00090,2025-09-28,CUST-0107,Riya Bansal,West,Mumbai,Kavita Rao,ViewClear 24-inch Monitor,3,12977.18,10,Debit Card,Delivered
+ORD-00091,2025-09-30,CUST-0033,Tanvi Kumar,Central,Kota,Rohit Sharma,ClickPro Wireless Mouse,1,794.48,5,UPI,Pending
+ORD-00092,2025-10-01,CUST-0045,Karan Chauhan,West,Mumbai,Kavita Rao,HomeSecure Wi-Fi Camera,1,3841.73,10,Credit Card,Delivered
+ORD-00093,2025-10-02,CUST-0204,Deepak Verma,West,Ahmedabad,Rohit Sharma,PowerCharge 20W Adapter,1,510.22,0,UPI,Delivered
+ORD-00094,2025-10-04,CUST-0207,Rahul Joshi,North,Delhi,Rohit Sharma,ArmorShield Phone Case,2,362.63,5,Cash on Delivery,Delivered
+ORD-00095,2025-10-05,CUST-0166,Simran Mehta,East,Patna,Ananya Verma,HomeSecure Wi-Fi Camera,4,4104.37,5,UPI,Delivered
+ORD-00096,2025-10-05,CUST-0063,Vivek Chauhan,East,Kolkata,Vikram Singh,SoundWave Bluetooth Speaker,1,1900.92,15,UPI,Delivered
+ORD-00097,2025-10-06,CUST-0071,Rahul Iyer,West,Ahmedabad,Suresh Kumar,PowerCharge 20W Adapter,3,483.43,15,UPI,Delivered
+ORD-00098,2025-10-06,CUST-0143,Aditya Singh,South,Chennai,Vikram Singh,ClickPro Wireless Mouse,2,783.34,5,Debit Card,Delivered
+ORD-00099,2025-10-07,CUST-0015,Yash Verma,North,Delhi,Arjun Mehta,HomeSecure Wi-Fi Camera,2,3857.51,5,Net Banking,Delivered
+ORD-00100,2025-10-07,CUST-0097,Anjali Agarwal,North,Delhi,Ananya Verma,DeskLite LED Lamp,1,1000.82,15,Debit Card,Cancelled
+ORD-00101,2025-10-07,CUST-0115,Anjali Joshi,Central,Bhopal,Priya Nair,FitTrack Smart Band,3,2011.96,10,UPI,Delivered
+ORD-00102,2025-10-07,CUST-0049,Manish Iyer,Central,Bhopal,Vikram Singh,EchoBeat Neckband,1,933.95,10,Debit Card,Delivered
+ORD-00103,2025-10-07,CUST-0120,Divya Agarwal,East,Patna,Ananya Verma,PulseFit Smartwatch,4,6717.2,5,Credit Card,Delivered
+ORD-00104,2025-10-09,CUST-0162,Yash Gupta,North,Delhi,Ananya Verma,FlexiCable Type-C 1m,3,257.84,0,UPI,Cancelled
+ORD-00105,2025-10-09,CUST-0078,Rajesh Joshi,North,Delhi,Vikram Singh,ViewClear 24-inch Monitor,3,12933.35,10,Credit Card,Delivered
+ORD-00106,2025-10-09,CUST-0137,Komal Agarwal,Central,Kota,Arjun Mehta,MagGrip Phone Stand,3,358.76,0,Debit Card,Delivered
+ORD-00107,2025-10-09,CUST-0001,Harsh Verma,North,Jaipur,Neha Gupta,VoiceHub Smart Speaker,1,4511.63,10,Credit Card,Delivered
+ORD-00108,2025-10-09,CUST-0177,Sneha Nair,Central,Kota,Arjun Mehta,VoiceHub Smart Speaker,6,4670.24,0,Cash on Delivery,Returned
+ORD-00109,2025-10-10,CUST-0219,Tanvi Agarwal,South,Bengaluru,Priya Nair,PowerCharge 20W Adapter,1,518.45,15,Cash on Delivery,Delivered
+ORD-00110,2025-10-10,CUST-0181,Pallavi Gupta,East,Kolkata,Ananya Verma,DeskLite LED Lamp,3,994.73,10,UPI,Delivered
+ORD-00111,2025-10-12,CUST-0126,Pallavi Singh,North,Jaipur,Suresh Kumar,SoundWave Bluetooth Speaker,1,1963.0,15,Credit Card,Delivered
+ORD-00112,2025-10-12,CUST-0146,Rajesh Chauhan,North,Jaipur,Priya Nair,PulseFit Smartwatch,4,6660.38,20,Credit Card,Delivered
+ORD-00113,2025-10-12,CUST-0218,Nikhil Chauhan,East,Patna,Vikram Singh,VoiceHub Smart Speaker,1,4541.07,0,UPI,Delivered
+ORD-00114,2025-10-15,CUST-0090,Simran Chauhan,Central,Bhopal,Priya Nair,ActionCam Mini 4K,1,7352.6,0,UPI,Delivered
+ORD-00115,2025-10-15,CUST-0220,Anjali Rao,Central,Kota,Ananya Verma,ViewClear 24-inch Monitor,3,13486.1,5,UPI,Delivered
+ORD-00116,2025-10-16,CUST-0029,Isha Gupta,South,Chennai,Vikram Singh,SmartGlow LED Bulb (Wi-Fi),2,804.28,20,UPI,Delivered
+ORD-00117,2025-10-16,CUST-0051,Deepak Iyer,Central,Kota,Kavita Rao,PowerCharge 20W Adapter,3,486.09,5,Cash on Delivery,Cancelled
+ORD-00118,2025-10-16,CUST-0031,Aditya Reddy,South,Chennai,Vikram Singh,ClickPro Wireless Mouse,1,768.02,10,Credit Card,Delivered
+ORD-00119,2025-10-17,CUST-0055,Yash Reddy,North,Delhi,Arjun Mehta,ActionCam Mini 4K,2,7464.43,0,Cash on Delivery,Delivered
+ORD-00120,2025-10-17,CUST-0140,Rahul Malhotra,South,Chennai,Rohit Sharma,MagGrip Phone Stand,5,335.71,5,Debit Card,Delivered
+ORD-00121,2025-10-17,CUST-0060,Manish Verma,North,Jaipur,Rohit Sharma,StudioMax Over-Ear Headphones,2,2763.6,5,Net Banking,Pending
+ORD-00122,2025-10-18,CUST-0035,Komal Iyer,Central,Kota,Kavita Rao,SmartPlug Mini,3,906.6,5,Credit Card,Delivered
+ORD-00123,2025-10-18,CUST-0124,Aman Nair,East,Kolkata,Priya Nair,VoiceHub Smart Speaker,1,4493.05,15,UPI,Delivered
+ORD-00124,2025-10-19,CUST-0118,Shreya Reddy,South,Chennai,Suresh Kumar,HubConnect 7-in-1 USB-C Hub,1,1853.0,10,UPI,Delivered
+ORD-00125,2025-10-21,CUST-0081,Rahul Mehta,South,Chennai,Kavita Rao,ArmorShield Phone Case,6,348.07,15,Credit Card,Delivered
+ORD-00126,2025-10-23,CUST-0020,Shreya Chauhan,South,Bengaluru,Priya Nair,TypeMaster Mechanical Keyboard,2,3288.43,10,Credit Card,Delivered
+ORD-00127,2025-10-23,CUST-0180,Divya Nair,South,Bengaluru,Kavita Rao,BassPro Wireless Earbuds,5,1301.39,10,Debit Card,Delivered
+ORD-00128,2025-10-24,CUST-0178,Meera Agarwal,Central,Kota,Kavita Rao,KidSafe GPS Watch,1,3263.19,10,Cash on Delivery,Delivered
+ORD-00129,2025-10-25,CUST-0116,Vivek Iyer,Central,Bhopal,Vikram Singh,SmartGlow LED Bulb (Wi-Fi),4,775.03,0,UPI,Delivered
+ORD-00130,2025-10-26,CUST-0044,Sneha Sharma,South,Bengaluru,Vikram Singh,HubConnect 7-in-1 USB-C Hub,3,1797.32,15,Credit Card,Delivered
+ORD-00131,2025-10-26,CUST-0081,Rahul Mehta,South,Chennai,Rohit Sharma,SmartGlow LED Bulb (Wi-Fi),1,817.26,10,Debit Card,Delivered
+ORD-00132,2025-10-27,CUST-0150,Aditya Joshi,Central,Bhopal,Arjun Mehta,SmartPlug Mini,1,912.0,0,Cash on Delivery,Delivered
+ORD-00133,2025-10-28,CUST-0146,Rajesh Chauhan,North,Jaipur,Priya Nair,BassPro Wireless Earbuds,4,1267.9,0,UPI,Delivered
+ORD-00134,2025-10-28,CUST-0203,Pallavi Bansal,Central,Kota,Kavita Rao,SmartPlug Mini,4,912.64,5,Cash on Delivery,Delivered
+ORD-00135,2025-10-28,CUST-0140,Rahul Malhotra,South,Chennai,Ananya Verma,MagGrip Phone Stand,3,354.92,15,UPI,Delivered
+ORD-00136,2025-10-29,CUST-0084,Rahul Singh,East,Kolkata,Priya Nair,SmartGlow LED Bulb (Wi-Fi),1,801.52,20,Credit Card,Returned
+ORD-00137,2025-10-29,CUST-0182,Manish Gupta,West,Ahmedabad,Neha Gupta,ActionCam Mini 4K,2,7271.85,0,UPI,Cancelled
+ORD-00138,2025-10-29,CUST-0013,Vivek Verma,Central,Kota,Rohit Sharma,EchoBeat Neckband,4,888.95,10,Credit Card,Delivered
+ORD-00139,2025-10-30,CUST-0076,Riya Agarwal,North,Delhi,Ananya Verma,HomeSecure Wi-Fi Camera,1,3894.64,5,Credit Card,Delivered
+ORD-00140,2025-10-30,CUST-0156,Aman Joshi,South,Bengaluru,Kavita Rao,EchoBeat Neckband,4,906.18,15,Credit Card,Delivered
+ORD-00141,2025-10-30,CUST-0179,Isha Chauhan,West,Ahmedabad,Kavita Rao,FitTrack Smart Band,3,2020.73,5,Credit Card,Delivered
+ORD-00142,2025-10-31,CUST-0182,Manish Gupta,West,Ahmedabad,Neha Gupta,ActionCam Mini 4K,3,7655.44,5,Debit Card,Pending
+ORD-00143,2025-10-31,CUST-0042,Tanvi Rao,West,Mumbai,Rohit Sharma,PowerCharge 20W Adapter,2,491.4,10,Credit Card,Delivered
+ORD-00144,2025-11-01,CUST-0225,Sanjay Chauhan,West,Ahmedabad,Suresh Kumar,FitTrack Smart Band,1,1939.5,0,Net Banking,Delivered
+ORD-00145,2025-11-04,CUST-0030,Karan Malhotra,North,Delhi,Kavita Rao,BassPro Wireless Earbuds,2,1341.98,0,Net Banking,Delivered
+ORD-00146,2025-11-04,CUST-0162,Yash Gupta,North,Delhi,Arjun Mehta,FlexiCable Type-C 1m,2,253.73,15,Credit Card,Delivered
+ORD-00147,2025-11-06,CUST-0057,Karan Agarwal,South,Chennai,Suresh Kumar,ActionCam Mini 4K,3,7631.54,10,Net Banking,Delivered
+ORD-00148,2025-11-06,CUST-0194,Deepak Nair,Central,Kota,Rohit Sharma,VoiceHub Smart Speaker,3,4544.6,0,Debit Card,Delivered
+ORD-00149,2025-11-07,CUST-0197,Anjali Kumar,Central,Kota,Priya Nair,SmartPlug Mini,6,874.18,0,Net Banking,Delivered
+ORD-00150,2025-11-07,CUST-0121,Sanjay Mehta,East,Kolkata,Suresh Kumar,FlexiCable Type-C 1m,4,255.54,0,Net Banking,Delivered
+ORD-00151,2025-11-08,CUST-0182,Manish Gupta,West,Ahmedabad,Rohit Sharma,TypeMaster Mechanical Keyboard,1,3190.01,10,Debit Card,Delivered
+ORD-00152,2025-11-10,CUST-0124,Aman Nair,East,Kolkata,Kavita Rao,FitTrack Smart Band,2,2010.41,5,Cash on Delivery,Delivered
+ORD-00153,2025-11-12,CUST-0123,Tanvi Joshi,East,Patna,Suresh Kumar,ArmorShield Phone Case,5,354.48,0,Debit Card,Delivered
+ORD-00154,2025-11-12,CUST-0213,Meera Reddy,West,Mumbai,Neha Gupta,VoiceHub Smart Speaker,3,4425.34,0,Credit Card,Delivered
+ORD-00155,2025-11-12,CUST-0113,Rajesh Nair,North,Delhi,Suresh Kumar,BassPro Wireless Earbuds,1,1328.51,5,Debit Card,Delivered
+ORD-00156,2025-11-12,CUST-0031,Aditya Reddy,South,Chennai,Rohit Sharma,PowerCharge 20W Adapter,2,489.14,5,Cash on Delivery,Delivered
+ORD-00157,2025-11-13,CUST-0195,Tanvi Sharma,Central,Bhopal,Neha Gupta,ViewClear 24-inch Monitor,1,12526.58,15,Net Banking,Delivered
+ORD-00158,2025-11-13,CUST-0016,Divya Verma,South,Bengaluru,Rohit Sharma,TypeMaster Mechanical Keyboard,2,3186.87,10,Debit Card,Delivered
+ORD-00159,2025-11-14,CUST-0002,Sneha Gupta,South,Bengaluru,Suresh Kumar,ArmorShield Phone Case,3,357.62,0,UPI,Returned
+ORD-00160,2025-11-14,CUST-0180,Divya Nair,South,Bengaluru,Rohit Sharma,PowerCharge 20W Adapter,1,505.45,10,UPI,Delivered
+ORD-00161,2025-11-15,CUST-0213,Meera Reddy,West,Mumbai,Priya Nair,FitTrack Smart Band,4,1956.3,10,Net Banking,Delivered
+ORD-00162,2025-11-16,CUST-0128,Karan Bansal,South,Chennai,Arjun Mehta,SmartGlow LED Bulb (Wi-Fi),3,790.84,15,UPI,Delivered
+ORD-00163,2025-11-16,CUST-0192,Aditya Malhotra,Central,Kota,Vikram Singh,StudioMax Over-Ear Headphones,2,2708.44,20,Credit Card,Delivered
+ORD-00164,2025-11-17,CUST-0053,Sanjay Sharma,Central,Bhopal,Vikram Singh,TypeMaster Mechanical Keyboard,3,3145.12,0,Credit Card,Delivered
+ORD-00165,2025-11-17,CUST-0197,Anjali Kumar,Central,Kota,Rohit Sharma,PulseFit Smartwatch,2,6521.6,20,Credit Card,Delivered
+ORD-00166,2025-11-20,CUST-0138,Nikhil Mehta,Central,Kota,Priya Nair,HomeView 360 Camera,3,5541.15,10,Credit Card,Delivered
+ORD-00167,2025-11-20,CUST-0081,Rahul Mehta,South,Chennai,Suresh Kumar,HubConnect 7-in-1 USB-C Hub,1,1834.43,20,UPI,Delivered
+ORD-00168,2025-11-22,CUST-0170,Aman Kumar,East,Kolkata,Arjun Mehta,VoiceHub Smart Speaker,1,4340.98,20,Cash on Delivery,Returned
+ORD-00169,2025-11-22,CUST-0208,Harsh Bansal,West,Mumbai,Ananya Verma,KidSafe GPS Watch,5,3204.16,10,UPI,Pending
+ORD-00170,2025-11-23,CUST-0168,Karan Nair,West,Mumbai,Neha Gupta,SmartGlow LED Bulb (Wi-Fi),1,825.58,5,Net Banking,Delivered
+ORD-00171,2025-11-23,CUST-0094,Karan Reddy,West,Ahmedabad,Suresh Kumar,DeskLite LED Lamp,1,999.09,0,Credit Card,Delivered
+ORD-00172,2025-11-24,CUST-0020,Shreya Chauhan,South,Bengaluru,Arjun Mehta,PowerCharge 20W Adapter,5,511.16,5,Net Banking,Delivered
+ORD-00173,2025-11-24,CUST-0221,Pallavi Nair,Central,Kota,Neha Gupta,HomeSecure Wi-Fi Camera,3,4013.91,10,Net Banking,Pending
+ORD-00174,2025-11-24,CUST-0143,Aditya Singh,South,Chennai,Vikram Singh,ClickPro Wireless Mouse,1,792.15,0,Debit Card,Delivered
+ORD-00175,2025-11-25,CUST-0107,Riya Bansal,West,Mumbai,Rohit Sharma,EchoBeat Neckband,3,908.51,0,Credit Card,Delivered
+ORD-00176,2025-11-27,CUST-0153,Anjali Nair,North,Jaipur,Rohit Sharma,MagGrip Phone Stand,2,354.25,5,Credit Card,Delivered
+ORD-00177,2025-11-28,CUST-0028,Pallavi Joshi,West,Ahmedabad,Kavita Rao,HomeView 360 Camera,1,5668.03,5,Cash on Delivery,Delivered
+ORD-00178,2025-11-28,CUST-0193,Simran Agarwal,West,Mumbai,Priya Nair,HomeSecure Wi-Fi Camera,1,4097.73,5,Net Banking,Delivered
+ORD-00179,2025-11-29,CUST-0030,Karan Malhotra,North,Delhi,Vikram Singh,EchoBeat Neckband,2,889.72,20,Debit Card,Delivered
+ORD-00180,2025-11-29,CUST-0124,Aman Nair,East,Kolkata,Rohit Sharma,ViewClear 24-inch Monitor,1,12571.6,0,Debit Card,Delivered
+ORD-00181,2025-11-30,CUST-0170,Aman Kumar,East,Kolkata,Suresh Kumar,PowerCharge 20W Adapter,1,491.62,15,Debit Card,Delivered
+ORD-00182,2025-11-30,CUST-0045,Karan Chauhan,West,Mumbai,Neha Gupta,FlexiCable Type-C 1m,3,252.94,15,UPI,Delivered
+ORD-00183,2025-12-02,CUST-0158,Deepak Chauhan,East,Patna,Priya Nair,BassPro Wireless Earbuds,1,1308.76,5,Debit Card,Returned
+ORD-00184,2025-12-03,CUST-0194,Deepak Nair,Central,Kota,Priya Nair,SmartPlug Mini,2,880.25,5,UPI,Delivered
+ORD-00185,2025-12-03,CUST-0205,Yash Mehta,East,Patna,Vikram Singh,FlexiCable Type-C 1m,2,245.63,5,Credit Card,Cancelled
+ORD-00186,2025-12-03,CUST-0190,Karan Mehta,West,Mumbai,Kavita Rao,KidSafe GPS Watch,2,3423.53,20,Net Banking,Delivered
+ORD-00187,2025-12-04,CUST-0078,Rajesh Joshi,North,Delhi,Arjun Mehta,SmartPlug Mini,1,868.29,0,Credit Card,Delivered
+ORD-00188,2025-12-05,CUST-0198,Divya Sharma,South,Chennai,Rohit Sharma,HomeSecure Wi-Fi Camera,1,4074.28,0,Debit Card,Delivered
+ORD-00189,2025-12-06,CUST-0112,Shreya Rao,North,Delhi,Vikram Singh,DeskLite LED Lamp,3,1010.67,15,UPI,Delivered
+ORD-00190,2025-12-06,CUST-0135,Yash Agarwal,West,Mumbai,Vikram Singh,HomeView 360 Camera,2,5524.58,10,Net Banking,Delivered
+ORD-00191,2025-12-07,CUST-0155,Harsh Sharma,North,Delhi,Rohit Sharma,PowerCharge 20W Adapter,3,513.93,5,UPI,Cancelled
+ORD-00192,2025-12-07,CUST-0117,Rahul Sharma,West,Mumbai,Neha Gupta,StudioMax Over-Ear Headphones,3,2890.17,10,Debit Card,Delivered
+ORD-00193,2025-12-09,CUST-0016,Divya Verma,South,Bengaluru,Kavita Rao,ArmorShield Phone Case,4,337.73,10,UPI,Delivered
+ORD-00194,2025-12-10,CUST-0213,Meera Reddy,West,Mumbai,Kavita Rao,FlexiCable Type-C 1m,5,244.92,15,Net Banking,Delivered
+ORD-00195,2025-12-10,CUST-0030,Karan Malhotra,North,Delhi,Suresh Kumar,VoiceHub Smart Speaker,3,4666.74,5,Net Banking,Delivered
+ORD-00196,2025-12-10,CUST-0064,Deepak Singh,West,Mumbai,Suresh Kumar,MagGrip Phone Stand,1,346.2,15,Debit Card,Delivered
+ORD-00197,2025-12-11,CUST-0214,Divya Kumar,West,Mumbai,Neha Gupta,KidSafe GPS Watch,5,3408.31,0,Credit Card,Delivered
+ORD-00198,2025-12-11,CUST-0093,Nikhil Kumar,East,Kolkata,Vikram Singh,KidSafe GPS Watch,2,3229.63,5,Debit Card,Delivered
+ORD-00199,2025-12-12,CUST-0221,Pallavi Nair,Central,Kota,Suresh Kumar,ClickPro Wireless Mouse,1,800.11,0,UPI,Cancelled
+ORD-00200,2025-12-13,CUST-0009,Sanjay Nair,South,Bengaluru,Neha Gupta,HomeSecure Wi-Fi Camera,4,3866.87,15,UPI,Cancelled
+ORD-00201,2025-12-14,CUST-0185,Shreya Singh,East,Kolkata,Suresh Kumar,FitTrack Smart Band,1,1934.38,5,Credit Card,Delivered
+ORD-00202,2025-12-14,CUST-0230,Sanjay Bansal,Central,Kota,Ananya Verma,HomeView 360 Camera,3,5449.52,5,Credit Card,Delivered
+ORD-00203,2025-12-14,CUST-0061,Isha Mehta,West,Ahmedabad,Priya Nair,MagGrip Phone Stand,1,358.35,15,Credit Card,Delivered
+ORD-00204,2025-12-15,CUST-0063,Vivek Chauhan,East,Kolkata,Arjun Mehta,StudioMax Over-Ear Headphones,1,2893.97,0,Debit Card,Delivered
+ORD-00205,2025-12-17,CUST-0196,Pooja Gupta,South,Bengaluru,Arjun Mehta,BassPro Wireless Earbuds,1,1316.81,0,UPI,Delivered
+ORD-00206,2025-12-18,CUST-0082,Deepak Rao,North,Delhi,Priya Nair,HomeSecure Wi-Fi Camera,1,3903.89,10,Debit Card,Delivered
+ORD-00207,2025-12-19,CUST-0093,Nikhil Kumar,East,Kolkata,Neha Gupta,ArmorShield Phone Case,4,349.14,10,UPI,Delivered
+ORD-00208,2025-12-20,CUST-0043,Simran Iyer,East,Patna,Arjun Mehta,SmartGlow LED Bulb (Wi-Fi),1,817.07,5,Cash on Delivery,Delivered
+ORD-00209,2025-12-20,CUST-0061,Isha Mehta,West,Ahmedabad,Rohit Sharma,VoiceHub Smart Speaker,2,4635.29,15,Net Banking,Delivered
+ORD-00210,2025-12-21,CUST-0104,Anjali Sharma,South,Chennai,Neha Gupta,VoiceHub Smart Speaker,2,4494.7,10,Cash on Delivery,Cancelled
+ORD-00211,2025-12-22,CUST-0132,Yash Chauhan,West,Ahmedabad,Priya Nair,ActionCam Mini 4K,1,7293.44,10,Net Banking,Delivered
+ORD-00212,2025-12-23,CUST-0094,Karan Reddy,West,Ahmedabad,Arjun Mehta,HubConnect 7-in-1 USB-C Hub,2,1775.74,10,Net Banking,Delivered
+ORD-00213,2025-12-24,CUST-0218,Nikhil Chauhan,East,Patna,Ananya Verma,EchoBeat Neckband,3,882.66,15,UPI,Delivered
+ORD-00214,2025-12-24,CUST-0059,Sneha Malhotra,West,Ahmedabad,Kavita Rao,MagGrip Phone Stand,2,338.71,15,UPI,Delivered
+ORD-00215,2025-12-25,CUST-0055,Yash Reddy,North,Delhi,Kavita Rao,KidSafe GPS Watch,1,3202.86,0,UPI,Delivered
+ORD-00216,2025-12-25,CUST-0074,Pallavi Rao,North,Delhi,Rohit Sharma,ViewClear 24-inch Monitor,4,12572.07,5,Credit Card,Delivered
+ORD-00217,2025-12-25,CUST-0200,Komal Malhotra,South,Chennai,Neha Gupta,EchoBeat Neckband,4,882.04,10,Debit Card,Delivered
+ORD-00218,2025-12-26,CUST-0185,Shreya Singh,East,Kolkata,Ananya Verma,ClickPro Wireless Mouse,2,801.76,15,Credit Card,Delivered
+ORD-00219,2025-12-26,CUST-0068,Sneha Singh,West,Ahmedabad,Ananya Verma,MagGrip Phone Stand,2,355.95,5,Credit Card,Delivered
+ORD-00220,2025-12-27,CUST-0198,Divya Sharma,South,Chennai,Rohit Sharma,PowerCharge 20W Adapter,1,507.55,5,Credit Card,Delivered
+ORD-00221,2025-12-27,CUST-0047,Komal Kumar,Central,Bhopal,Ananya Verma,PowerCharge 20W Adapter,3,503.7,0,Debit Card,Delivered
+ORD-00222,2025-12-28,CUST-0062,Pallavi Sharma,North,Delhi,Arjun Mehta,PowerCharge 20W Adapter,1,493.12,5,UPI,Delivered
+ORD-00223,2025-12-30,CUST-0084,Rahul Singh,East,Kolkata,Suresh Kumar,HomeView 360 Camera,2,5594.75,0,Credit Card,Delivered
+ORD-00224,2025-12-30,CUST-0125,Deepak Kumar,West,Mumbai,Priya Nair,SoundWave Bluetooth Speaker,1,1835.55,0,Cash on Delivery,Delivered
+ORD-00225,2025-12-30,CUST-0040,Harsh Agarwal,Central,Bhopal,Suresh Kumar,HomeSecure Wi-Fi Camera,2,3984.31,10,Credit Card,Delivered
+ORD-00226,2025-12-31,CUST-0124,Aman Nair,East,Kolkata,Priya Nair,ActionCam Mini 4K,2,7230.29,10,Cash on Delivery,Delivered
+ORD-00227,2026-01-01,CUST-0101,Komal Gupta,North,Jaipur,Neha Gupta,KidSafe GPS Watch,2,3301.56,5,Debit Card,Delivered
+ORD-00228,2026-01-03,CUST-0159,Pooja Joshi,Central,Bhopal,Priya Nair,ActionCam Mini 4K,3,7472.73,5,Net Banking,Cancelled
+ORD-00229,2026-01-03,CUST-0106,Pooja Malhotra,North,Jaipur,Kavita Rao,SmartGlow LED Bulb (Wi-Fi),3,819.56,10,Debit Card,Delivered
+ORD-00230,2026-01-04,CUST-0088,Komal Bansal,Central,Kota,Kavita Rao,EchoBeat Neckband,2,886.91,10,UPI,Delivered
+ORD-00231,2026-01-05,CUST-0167,Pallavi Agarwal,East,Patna,Suresh Kumar,HubConnect 7-in-1 USB-C Hub,2,1854.09,5,Net Banking,Delivered
+ORD-00232,2026-01-06,CUST-0182,Manish Gupta,West,Ahmedabad,Arjun Mehta,StudioMax Over-Ear Headphones,3,2760.59,0,Debit Card,Pending
+ORD-00233,2026-01-07,CUST-0120,Divya Agarwal,East,Patna,Neha Gupta,TypeMaster Mechanical Keyboard,1,3187.93,5,UPI,Cancelled
+ORD-00234,2026-01-07,CUST-0100,Riya Nair,East,Kolkata,Neha Gupta,HomeView 360 Camera,1,5599.41,10,Credit Card,Delivered
+ORD-00235,2026-01-07,CUST-0006,Shreya Gupta,Central,Kota,Priya Nair,PulseFit Smartwatch,1,6339.15,0,UPI,Delivered
+ORD-00236,2026-01-08,CUST-0187,Simran Bansal,North,Jaipur,Arjun Mehta,EchoBeat Neckband,1,881.37,20,Debit Card,Delivered
+ORD-00237,2026-01-08,CUST-0005,Karan Gupta,South,Bengaluru,Arjun Mehta,HomeSecure Wi-Fi Camera,1,4059.94,5,Net Banking,Returned
+ORD-00238,2026-01-08,CUST-0212,Nikhil Bansal,North,Jaipur,Arjun Mehta,DeskLite LED Lamp,2,1018.38,10,Credit Card,Returned
+ORD-00239,2026-01-09,CUST-0227,Riya Singh,Central,Kota,Suresh Kumar,SoundWave Bluetooth Speaker,2,1973.31,5,UPI,Delivered
+ORD-00240,2026-01-09,CUST-0009,Sanjay Nair,South,Bengaluru,Rohit Sharma,FlexiCable Type-C 1m,5,250.73,10,Debit Card,Delivered
+ORD-00241,2026-01-09,CUST-0133,Vivek Gupta,South,Bengaluru,Kavita Rao,FitTrack Smart Band,1,2008.94,5,Credit Card,Delivered
+ORD-00242,2026-01-10,CUST-0053,Sanjay Sharma,Central,Bhopal,Suresh Kumar,HomeView 360 Camera,2,5680.78,5,Cash on Delivery,Delivered
+ORD-00243,2026-01-11,CUST-0058,Manish Agarwal,South,Chennai,Ananya Verma,BassPro Wireless Earbuds,4,1314.58,10,UPI,Delivered
+ORD-00244,2026-01-11,CUST-0023,Riya Malhotra,East,Patna,Neha Gupta,HomeView 360 Camera,3,5520.99,0,UPI,Delivered
+ORD-00245,2026-01-11,CUST-0090,Simran Chauhan,Central,Bhopal,Suresh Kumar,FitTrack Smart Band,1,2031.68,0,UPI,Delivered
+ORD-00246,2026-01-12,CUST-0020,Shreya Chauhan,South,Bengaluru,Priya Nair,SmartPlug Mini,1,883.05,5,Credit Card,Delivered
+ORD-00247,2026-01-12,CUST-0090,Simran Chauhan,Central,Bhopal,Neha Gupta,ArmorShield Phone Case,2,335.72,5,Cash on Delivery,Delivered
+ORD-00248,2026-01-13,CUST-0036,Harsh Rao,North,Jaipur,Priya Nair,SmartPlug Mini,1,890.63,5,UPI,Delivered
+ORD-00249,2026-01-13,CUST-0127,Nikhil Reddy,Central,Kota,Suresh Kumar,ClickPro Wireless Mouse,1,803.98,5,Credit Card,Delivered
+ORD-00250,2026-01-13,CUST-0140,Rahul Malhotra,South,Chennai,Kavita Rao,HubConnect 7-in-1 USB-C Hub,1,1846.69,15,Credit Card,Delivered
+ORD-00251,2026-01-14,CUST-0148,Vivek Bansal,West,Mumbai,Arjun Mehta,MagGrip Phone Stand,1,356.98,5,Cash on Delivery,Delivered
+ORD-00252,2026-01-14,CUST-0048,Rahul Agarwal,Central,Kota,Priya Nair,HubConnect 7-in-1 USB-C Hub,2,1764.8,15,Credit Card,Delivered
+ORD-00253,2026-01-15,CUST-0145,Anjali Mehta,East,Patna,Priya Nair,PowerCharge 20W Adapter,1,505.93,20,Cash on Delivery,Delivered
+ORD-00254,2026-01-15,CUST-0198,Divya Sharma,South,Chennai,Kavita Rao,DeskLite LED Lamp,3,963.95,0,UPI,Delivered
+ORD-00255,2026-01-16,CUST-0144,Yash Singh,South,Bengaluru,Ananya Verma,FitTrack Smart Band,2,2058.75,20,Credit Card,Returned
+ORD-00256,2026-01-17,CUST-0005,Karan Gupta,South,Bengaluru,Ananya Verma,HubConnect 7-in-1 USB-C Hub,6,1811.05,10,Debit Card,Delivered
+ORD-00257,2026-01-17,CUST-0217,Simran Reddy,South,Chennai,Kavita Rao,HomeSecure Wi-Fi Camera,3,3955.27,5,UPI,Delivered
+ORD-00258,2026-01-17,CUST-0149,Vivek Rao,West,Mumbai,Neha Gupta,SmartPlug Mini,1,910.18,0,Debit Card,Returned
+ORD-00259,2026-01-17,CUST-0119,Anjali Verma,East,Patna,Ananya Verma,SoundWave Bluetooth Speaker,4,1967.61,0,Net Banking,Delivered
+ORD-00260,2026-01-17,CUST-0047,Komal Kumar,Central,Bhopal,Neha Gupta,HomeView 360 Camera,2,5292.35,5,Credit Card,Delivered
+ORD-00261,2026-01-18,CUST-0087,Tanvi Malhotra,Central,Bhopal,Vikram Singh,MagGrip Phone Stand,1,352.72,5,UPI,Delivered
+ORD-00262,2026-01-18,CUST-0123,Tanvi Joshi,East,Patna,Suresh Kumar,ArmorShield Phone Case,5,335.47,20,Cash on Delivery,Delivered
+ORD-00263,2026-01-18,CUST-0136,Simran Kumar,South,Chennai,Kavita Rao,TypeMaster Mechanical Keyboard,2,3111.22,5,Credit Card,Delivered
+ORD-00264,2026-01-18,CUST-0092,Yash Rao,South,Chennai,Priya Nair,TypeMaster Mechanical Keyboard,3,3242.73,5,Cash on Delivery,Delivered
+ORD-00265,2026-01-19,CUST-0047,Komal Kumar,Central,Bhopal,Ananya Verma,HomeView 360 Camera,1,5377.29,15,Credit Card,Returned
+ORD-00266,2026-01-20,CUST-0185,Shreya Singh,East,Kolkata,Rohit Sharma,KidSafe GPS Watch,4,3174.53,0,Debit Card,Delivered
+ORD-00267,2026-01-20,CUST-0153,Anjali Nair,North,Jaipur,Arjun Mehta,VoiceHub Smart Speaker,4,4677.33,5,Cash on Delivery,Delivered
+ORD-00268,2026-01-21,CUST-0196,Pooja Gupta,South,Bengaluru,Neha Gupta,TypeMaster Mechanical Keyboard,1,3293.66,5,Credit Card,Delivered
+ORD-00269,2026-01-21,CUST-0201,Sneha Reddy,South,Chennai,Ananya Verma,ArmorShield Phone Case,3,336.34,10,Debit Card,Delivered
+ORD-00270,2026-01-22,CUST-0207,Rahul Joshi,North,Delhi,Vikram Singh,PowerCharge 20W Adapter,5,512.74,5,UPI,Delivered
+ORD-00271,2026-01-22,CUST-0099,Isha Joshi,Central,Bhopal,Priya Nair,StudioMax Over-Ear Headphones,4,2819.37,10,Credit Card,Cancelled
+ORD-00272,2026-01-23,CUST-0090,Simran Chauhan,Central,Bhopal,Kavita Rao,TypeMaster Mechanical Keyboard,3,3204.4,5,UPI,Delivered
+ORD-00273,2026-01-24,CUST-0143,Aditya Singh,South,Chennai,Rohit Sharma,ClickPro Wireless Mouse,2,789.48,10,Debit Card,Delivered
+ORD-00274,2026-01-26,CUST-0057,Karan Agarwal,South,Chennai,Rohit Sharma,HomeSecure Wi-Fi Camera,2,3965.87,5,Credit Card,Delivered
+ORD-00275,2026-01-26,CUST-0044,Sneha Sharma,South,Bengaluru,Vikram Singh,TypeMaster Mechanical Keyboard,2,3174.86,10,UPI,Delivered
+ORD-00276,2026-01-27,CUST-0197,Anjali Kumar,Central,Kota,Ananya Verma,DeskLite LED Lamp,2,979.38,10,Cash on Delivery,Delivered
+ORD-00277,2026-01-28,CUST-0035,Komal Iyer,Central,Kota,Neha Gupta,SoundWave Bluetooth Speaker,4,1849.64,10,Credit Card,Delivered
+ORD-00278,2026-01-29,CUST-0001,Harsh Verma,North,Jaipur,Suresh Kumar,ViewClear 24-inch Monitor,2,12867.86,0,Cash on Delivery,Delivered
+ORD-00279,2026-01-30,CUST-0049,Manish Iyer,Central,Bhopal,Rohit Sharma,TypeMaster Mechanical Keyboard,4,3155.99,0,Credit Card,Returned
+ORD-00280,2026-01-31,CUST-0098,Yash Iyer,South,Bengaluru,Suresh Kumar,PulseFit Smartwatch,6,6392.54,20,Debit Card,Delivered
+ORD-00281,2026-02-01,CUST-0173,Nikhil Gupta,North,Delhi,Priya Nair,SoundWave Bluetooth Speaker,3,1971.26,0,UPI,Delivered
+ORD-00282,2026-02-01,CUST-0143,Aditya Singh,South,Chennai,Arjun Mehta,DeskLite LED Lamp,1,1038.76,10,UPI,Delivered
+ORD-00283,2026-02-04,CUST-0196,Pooja Gupta,South,Bengaluru,Rohit Sharma,DeskLite LED Lamp,2,1004.62,0,Credit Card,Delivered
+ORD-00284,2026-02-04,CUST-0044,Sneha Sharma,South,Bengaluru,Rohit Sharma,EchoBeat Neckband,2,909.09,10,Debit Card,Delivered
+ORD-00285,2026-02-07,CUST-0225,Sanjay Chauhan,West,Ahmedabad,Neha Gupta,StudioMax Over-Ear Headphones,1,2776.78,20,UPI,Delivered
+ORD-00286,2026-02-08,CUST-0076,Riya Agarwal,North,Delhi,Arjun Mehta,HubConnect 7-in-1 USB-C Hub,1,1803.49,5,Net Banking,Delivered
+ORD-00287,2026-02-08,CUST-0228,Deepak Sharma,South,Chennai,Rohit Sharma,ActionCam Mini 4K,2,7532.04,0,UPI,Delivered
+ORD-00288,2026-02-08,CUST-0183,Nikhil Joshi,East,Kolkata,Vikram Singh,ActionCam Mini 4K,4,7493.87,0,UPI,Delivered
+ORD-00289,2026-02-09,CUST-0090,Simran Chauhan,Central,Bhopal,Ananya Verma,FitTrack Smart Band,4,2045.17,5,Net Banking,Delivered
+ORD-00290,2026-02-12,CUST-0021,Deepak Mehta,East,Kolkata,Priya Nair,KidSafe GPS Watch,2,3320.95,0,Debit Card,Delivered
+ORD-00291,2026-02-12,CUST-0108,Manish Bansal,West,Ahmedabad,Kavita Rao,HubConnect 7-in-1 USB-C Hub,4,1857.54,5,Debit Card,Delivered
+ORD-00292,2026-02-12,CUST-0115,Anjali Joshi,Central,Bhopal,Suresh Kumar,StudioMax Over-Ear Headphones,2,2901.24,15,Debit Card,Returned
+ORD-00293,2026-02-13,CUST-0019,Komal Nair,North,Delhi,Ananya Verma,MagGrip Phone Stand,3,337.9,5,Cash on Delivery,Delivered
+ORD-00294,2026-02-13,CUST-0032,Tanvi Verma,West,Ahmedabad,Neha Gupta,PulseFit Smartwatch,5,6402.56,0,UPI,Delivered
+ORD-00295,2026-02-13,CUST-0121,Sanjay Mehta,East,Kolkata,Vikram Singh,HubConnect 7-in-1 USB-C Hub,1,1865.25,0,Net Banking,Delivered
+ORD-00296,2026-02-13,CUST-0034,Shreya Bansal,North,Delhi,Suresh Kumar,EchoBeat Neckband,1,922.29,0,UPI,Delivered
+ORD-00297,2026-02-14,CUST-0191,Rajesh Reddy,North,Delhi,Neha Gupta,HomeSecure Wi-Fi Camera,6,3997.79,5,Cash on Delivery,Delivered
+ORD-00298,2026-02-14,CUST-0075,Rajesh Kumar,Central,Bhopal,Priya Nair,ActionCam Mini 4K,6,7504.12,10,Cash on Delivery,Delivered
+ORD-00299,2026-02-15,CUST-0037,Anjali Singh,West,Mumbai,Arjun Mehta,VoiceHub Smart Speaker,2,4525.92,5,Credit Card,Delivered
+ORD-00300,2026-02-15,CUST-0082,Deepak Rao,North,Delhi,Arjun Mehta,PowerCharge 20W Adapter,2,506.3,10,Cash on Delivery,Delivered
+ORD-00301,2026-02-15,CUST-0129,Manish Singh,North,Delhi,Suresh Kumar,ViewClear 24-inch Monitor,1,12810.65,0,Cash on Delivery,Delivered
+ORD-00302,2026-02-15,CUST-0108,Manish Bansal,West,Ahmedabad,Rohit Sharma,DeskLite LED Lamp,2,1038.54,15,Credit Card,Delivered
+ORD-00303,2026-02-15,CUST-0067,Riya Reddy,Central,Bhopal,Kavita Rao,SmartGlow LED Bulb (Wi-Fi),3,794.72,0,Debit Card,Delivered
+ORD-00304,2026-02-16,CUST-0147,Meera Sharma,East,Patna,Vikram Singh,KidSafe GPS Watch,2,3395.22,10,Debit Card,Delivered
+ORD-00305,2026-02-17,CUST-0023,Riya Malhotra,East,Patna,Vikram Singh,SmartGlow LED Bulb (Wi-Fi),3,824.01,10,Debit Card,Delivered
+ORD-00306,2026-02-20,CUST-0092,Yash Rao,South,Chennai,Suresh Kumar,SoundWave Bluetooth Speaker,1,1841.6,15,Credit Card,Delivered
+ORD-00307,2026-02-22,CUST-0063,Vivek Chauhan,East,Kolkata,Kavita Rao,SoundWave Bluetooth Speaker,1,1856.05,15,UPI,Delivered
+ORD-00308,2026-02-23,CUST-0045,Karan Chauhan,West,Mumbai,Vikram Singh,ClickPro Wireless Mouse,2,810.56,5,Credit Card,Returned
+ORD-00309,2026-02-23,CUST-0208,Harsh Bansal,West,Mumbai,Neha Gupta,KidSafe GPS Watch,3,3357.4,10,Cash on Delivery,Delivered
+ORD-00310,2026-02-23,CUST-0049,Manish Iyer,Central,Bhopal,Rohit Sharma,FlexiCable Type-C 1m,1,253.53,0,Debit Card,Delivered
+ORD-00311,2026-02-23,CUST-0140,Rahul Malhotra,South,Chennai,Ananya Verma,FitTrack Smart Band,1,2060.31,10,UPI,Delivered
+ORD-00312,2026-02-24,CUST-0009,Sanjay Nair,South,Bengaluru,Arjun Mehta,StudioMax Over-Ear Headphones,2,2793.63,10,Debit Card,Delivered
+ORD-00313,2026-02-24,CUST-0047,Komal Kumar,Central,Bhopal,Rohit Sharma,VoiceHub Smart Speaker,4,4581.05,15,Cash on Delivery,Delivered
+ORD-00314,2026-02-24,CUST-0172,Tanvi Chauhan,East,Kolkata,Priya Nair,DeskLite LED Lamp,2,1017.94,0,UPI,Delivered
+ORD-00315,2026-02-26,CUST-0179,Isha Chauhan,West,Ahmedabad,Vikram Singh,SmartGlow LED Bulb (Wi-Fi),1,778.79,5,UPI,Delivered
+ORD-00316,2026-02-26,CUST-0178,Meera Agarwal,Central,Kota,Kavita Rao,StudioMax Over-Ear Headphones,1,2754.85,0,UPI,Delivered
+ORD-00317,2026-02-26,CUST-0154,Aman Chauhan,Central,Bhopal,Suresh Kumar,FitTrack Smart Band,1,2032.45,10,Debit Card,Delivered
+ORD-00318,2026-02-28,CUST-0035,Komal Iyer,Central,Kota,Neha Gupta,DeskLite LED Lamp,2,973.34,10,Debit Card,Delivered
+ORD-00319,2026-02-28,CUST-0158,Deepak Chauhan,East,Patna,Rohit Sharma,SmartGlow LED Bulb (Wi-Fi),1,802.86,10,UPI,Delivered
+ORD-00320,2026-02-28,CUST-0009,Sanjay Nair,South,Bengaluru,Ananya Verma,ClickPro Wireless Mouse,2,782.23,5,Cash on Delivery,Delivered
+ORD-00321,2026-03-01,CUST-0151,Vivek Joshi,Central,Bhopal,Ananya Verma,PowerCharge 20W Adapter,4,503.62,20,UPI,Delivered
+ORD-00322,2026-03-01,CUST-0161,Divya Joshi,West,Ahmedabad,Arjun Mehta,VoiceHub Smart Speaker,3,4348.71,5,Debit Card,Delivered
+ORD-00323,2026-03-01,CUST-0093,Nikhil Kumar,East,Kolkata,Neha Gupta,FitTrack Smart Band,3,1928.36,10,Credit Card,Delivered
+ORD-00324,2026-03-02,CUST-0010,Sanjay Verma,North,Jaipur,Vikram Singh,FlexiCable Type-C 1m,5,239.76,15,Net Banking,Delivered
+ORD-00325,2026-03-02,CUST-0083,Deepak Joshi,Central,Bhopal,Ananya Verma,ClickPro Wireless Mouse,1,780.55,15,Net Banking,Delivered
+ORD-00326,2026-03-02,CUST-0098,Yash Iyer,South,Bengaluru,Neha Gupta,DeskLite LED Lamp,5,963.34,10,UPI,Returned
+ORD-00327,2026-03-02,CUST-0013,Vivek Verma,Central,Kota,Vikram Singh,EchoBeat Neckband,1,883.49,10,Debit Card,Delivered
+ORD-00328,2026-03-03,CUST-0100,Riya Nair,East,Kolkata,Kavita Rao,VoiceHub Smart Speaker,2,4403.85,0,Credit Card,Cancelled
+ORD-00329,2026-03-04,CUST-0218,Nikhil Chauhan,East,Patna,Vikram Singh,SmartPlug Mini,1,913.11,0,Cash on Delivery,Delivered
+ORD-00330,2026-03-04,CUST-0111,Rahul Rao,Central,Kota,Neha Gupta,VoiceHub Smart Speaker,4,4570.14,5,Cash on Delivery,Delivered
+ORD-00331,2026-03-06,CUST-0206,Sanjay Joshi,East,Kolkata,Ananya Verma,StudioMax Over-Ear Headphones,2,2909.86,0,UPI,Delivered
+ORD-00332,2026-03-06,CUST-0229,Harsh Singh,North,Jaipur,Vikram Singh,KidSafe GPS Watch,2,3278.97,15,Credit Card,Delivered
+ORD-00333,2026-03-07,CUST-0161,Divya Joshi,West,Ahmedabad,Kavita Rao,HomeView 360 Camera,1,5430.55,10,Credit Card,Delivered
+ORD-00334,2026-03-08,CUST-0117,Rahul Sharma,West,Mumbai,Priya Nair,BassPro Wireless Earbuds,6,1341.55,15,UPI,Returned
+ORD-00335,2026-03-08,CUST-0079,Anjali Reddy,Central,Kota,Ananya Verma,MagGrip Phone Stand,3,335.07,5,UPI,Delivered
+ORD-00336,2026-03-09,CUST-0077,Karan Joshi,North,Delhi,Suresh Kumar,BassPro Wireless Earbuds,2,1329.84,5,UPI,Returned
+ORD-00337,2026-03-09,CUST-0106,Pooja Malhotra,North,Jaipur,Neha Gupta,ActionCam Mini 4K,2,7536.88,0,Net Banking,Returned
+ORD-00338,2026-03-10,CUST-0044,Sneha Sharma,South,Bengaluru,Arjun Mehta,PulseFit Smartwatch,2,6438.03,5,Credit Card,Returned
+ORD-00339,2026-03-12,CUST-0093,Nikhil Kumar,East,Kolkata,Ananya Verma,StudioMax Over-Ear Headphones,1,2818.9,5,Credit Card,Delivered
+ORD-00340,2026-03-14,CUST-0098,Yash Iyer,South,Bengaluru,Neha Gupta,ViewClear 24-inch Monitor,2,13335.45,10,Debit Card,Delivered
+ORD-00341,2026-03-14,CUST-0012,Riya Chauhan,West,Mumbai,Kavita Rao,ClickPro Wireless Mouse,1,820.55,5,UPI,Delivered
+ORD-00342,2026-03-15,CUST-0084,Rahul Singh,East,Kolkata,Ananya Verma,VoiceHub Smart Speaker,3,4577.07,5,Cash on Delivery,Delivered
+ORD-00343,2026-03-16,CUST-0056,Karan Iyer,North,Jaipur,Priya Nair,HomeSecure Wi-Fi Camera,4,3870.83,10,Credit Card,Pending
+ORD-00344,2026-03-16,CUST-0095,Riya Sharma,East,Kolkata,Ananya Verma,HubConnect 7-in-1 USB-C Hub,2,1803.24,5,Debit Card,Delivered
+ORD-00345,2026-03-17,CUST-0071,Rahul Iyer,West,Ahmedabad,Vikram Singh,ClickPro Wireless Mouse,1,806.62,0,UPI,Delivered
+ORD-00346,2026-03-18,CUST-0017,Vivek Nair,West,Ahmedabad,Neha Gupta,SmartPlug Mini,2,870.88,5,Cash on Delivery,Delivered
+ORD-00347,2026-03-18,CUST-0097,Anjali Agarwal,North,Delhi,Kavita Rao,StudioMax Over-Ear Headphones,2,2806.7,20,Cash on Delivery,Delivered
+ORD-00348,2026-03-19,CUST-0230,Sanjay Bansal,Central,Kota,Priya Nair,SoundWave Bluetooth Speaker,1,1895.3,0,UPI,Delivered
+ORD-00349,2026-03-19,CUST-0082,Deepak Rao,North,Delhi,Neha Gupta,SmartPlug Mini,2,885.02,10,Debit Card,Delivered
+ORD-00350,2026-03-20,CUST-0088,Komal Bansal,Central,Kota,Vikram Singh,TypeMaster Mechanical Keyboard,1,3225.24,15,Credit Card,Cancelled
+ORD-00351,2026-03-20,CUST-0066,Deepak Malhotra,Central,Bhopal,Kavita Rao,HubConnect 7-in-1 USB-C Hub,5,1727.07,0,UPI,Delivered
+ORD-00352,2026-03-20,CUST-0213,Meera Reddy,West,Mumbai,Ananya Verma,ActionCam Mini 4K,3,7266.93,10,Cash on Delivery,Delivered
+ORD-00353,2026-03-21,CUST-0138,Nikhil Mehta,Central,Kota,Neha Gupta,EchoBeat Neckband,3,911.39,10,Net Banking,Pending
+ORD-00354,2026-03-21,CUST-0112,Shreya Rao,North,Delhi,Rohit Sharma,EchoBeat Neckband,1,916.38,10,UPI,Delivered
+ORD-00355,2026-03-22,CUST-0144,Yash Singh,South,Bengaluru,Neha Gupta,FlexiCable Type-C 1m,5,240.9,0,Credit Card,Delivered
+ORD-00356,2026-03-23,CUST-0204,Deepak Verma,West,Ahmedabad,Ananya Verma,KidSafe GPS Watch,1,3405.93,10,UPI,Delivered
+ORD-00357,2026-03-23,CUST-0101,Komal Gupta,North,Jaipur,Priya Nair,VoiceHub Smart Speaker,1,4446.05,0,Credit Card,Returned
+ORD-00358,2026-03-23,CUST-0085,Sneha Rao,East,Kolkata,Suresh Kumar,FlexiCable Type-C 1m,3,239.32,5,UPI,Delivered
+ORD-00359,2026-03-23,CUST-0229,Harsh Singh,North,Jaipur,Vikram Singh,HomeSecure Wi-Fi Camera,5,3840.43,10,Credit Card,Delivered
+ORD-00360,2026-03-25,CUST-0147,Meera Sharma,East,Patna,Suresh Kumar,HomeSecure Wi-Fi Camera,3,3999.93,5,UPI,Delivered
+ORD-00361,2026-03-25,CUST-0078,Rajesh Joshi,North,Delhi,Vikram Singh,TypeMaster Mechanical Keyboard,2,3227.95,0,Credit Card,Delivered
+ORD-00362,2026-03-26,CUST-0017,Vivek Nair,West,Ahmedabad,Suresh Kumar,ActionCam Mini 4K,3,7269.04,0,UPI,Pending
+ORD-00363,2026-03-26,CUST-0220,Anjali Rao,Central,Kota,Rohit Sharma,PowerCharge 20W Adapter,2,517.67,5,UPI,Delivered
+ORD-00364,2026-03-27,CUST-0171,Isha Malhotra,East,Patna,Suresh Kumar,BassPro Wireless Earbuds,3,1263.46,5,Credit Card,Delivered
+ORD-00365,2026-03-27,CUST-0043,Simran Iyer,East,Patna,Neha Gupta,HomeSecure Wi-Fi Camera,2,4010.49,20,UPI,Delivered
+ORD-00366,2026-03-29,CUST-0168,Karan Nair,West,Mumbai,Suresh Kumar,HomeView 360 Camera,2,5651.73,5,Cash on Delivery,Delivered
+ORD-00367,2026-03-29,CUST-0182,Manish Gupta,West,Ahmedabad,Priya Nair,HomeSecure Wi-Fi Camera,5,3885.02,15,UPI,Delivered
+ORD-00368,2026-03-30,CUST-0229,Harsh Singh,North,Jaipur,Rohit Sharma,StudioMax Over-Ear Headphones,1,2727.34,0,Debit Card,Delivered
+ORD-00369,2026-03-30,CUST-0159,Pooja Joshi,Central,Bhopal,Priya Nair,StudioMax Over-Ear Headphones,2,2881.29,5,UPI,Delivered
+ORD-00370,2026-03-31,CUST-0036,Harsh Rao,North,Jaipur,Kavita Rao,ViewClear 24-inch Monitor,1,13407.83,0,Cash on Delivery,Delivered
+ORD-00371,2026-03-31,CUST-0007,Sneha Kumar,Central,Kota,Suresh Kumar,KidSafe GPS Watch,5,3373.66,10,Debit Card,Delivered
+ORD-00372,2026-04-01,CUST-0055,Yash Reddy,North,Delhi,Suresh Kumar,PulseFit Smartwatch,1,6277.7,20,Cash on Delivery,Delivered
+ORD-00373,2026-04-01,CUST-0221,Pallavi Nair,Central,Kota,Kavita Rao,ViewClear 24-inch Monitor,6,13041.2,0,Credit Card,Pending
+ORD-00374,2026-04-02,CUST-0104,Anjali Sharma,South,Chennai,Arjun Mehta,SmartGlow LED Bulb (Wi-Fi),1,801.16,10,Cash on Delivery,Returned
+ORD-00375,2026-04-03,CUST-0155,Harsh Sharma,North,Delhi,Neha Gupta,ArmorShield Phone Case,1,346.16,5,Debit Card,Delivered
+ORD-00376,2026-04-04,CUST-0156,Aman Joshi,South,Bengaluru,Vikram Singh,SmartPlug Mini,1,892.58,0,Debit Card,Delivered
+ORD-00377,2026-04-04,CUST-0080,Rahul Gupta,East,Kolkata,Priya Nair,HubConnect 7-in-1 USB-C Hub,3,1790.63,5,UPI,Delivered
+ORD-00378,2026-04-05,CUST-0068,Sneha Singh,West,Ahmedabad,Priya Nair,KidSafe GPS Watch,5,3240.68,0,Cash on Delivery,Pending
+ORD-00379,2026-04-05,CUST-0089,Komal Verma,South,Chennai,Ananya Verma,BassPro Wireless Earbuds,1,1342.7,0,Net Banking,Delivered
+ORD-00380,2026-04-05,CUST-0107,Riya Bansal,West,Mumbai,Kavita Rao,PulseFit Smartwatch,1,6436.48,5,UPI,Delivered
+ORD-00381,2026-04-05,CUST-0215,Sneha Chauhan,South,Chennai,Kavita Rao,PowerCharge 20W Adapter,1,495.46,0,UPI,Delivered
+ORD-00382,2026-04-05,CUST-0224,Manish Chauhan,South,Chennai,Neha Gupta,PowerCharge 20W Adapter,1,509.44,0,UPI,Delivered
+ORD-00383,2026-04-05,CUST-0142,Sanjay Iyer,Central,Bhopal,Vikram Singh,FitTrack Smart Band,2,2007.78,0,UPI,Delivered
+ORD-00384,2026-04-06,CUST-0092,Yash Rao,South,Chennai,Vikram Singh,BassPro Wireless Earbuds,1,1286.94,5,Debit Card,Delivered
+ORD-00385,2026-04-07,CUST-0082,Deepak Rao,North,Delhi,Rohit Sharma,ActionCam Mini 4K,2,7339.88,10,UPI,Delivered
+ORD-00386,2026-04-07,CUST-0223,Shreya Mehta,West,Ahmedabad,Kavita Rao,HubConnect 7-in-1 USB-C Hub,4,1727.99,15,Credit Card,Delivered
+ORD-00387,2026-04-07,CUST-0005,Karan Gupta,South,Bengaluru,Arjun Mehta,PowerCharge 20W Adapter,6,484.46,0,Net Banking,Returned
+ORD-00388,2026-04-08,CUST-0113,Rajesh Nair,North,Delhi,Neha Gupta,KidSafe GPS Watch,4,3401.29,5,Net Banking,Delivered
+ORD-00389,2026-04-09,CUST-0176,Aman Verma,East,Kolkata,Kavita Rao,EchoBeat Neckband,1,868.85,10,UPI,Delivered
+ORD-00390,2026-04-10,CUST-0159,Pooja Joshi,Central,Bhopal,Suresh Kumar,ViewClear 24-inch Monitor,2,13502.73,15,UPI,Delivered
+ORD-00391,2026-04-10,CUST-0002,Sneha Gupta,South,Bengaluru,Priya Nair,KidSafe GPS Watch,1,3341.09,5,Credit Card,Delivered
+ORD-00392,2026-04-12,CUST-0161,Divya Joshi,West,Ahmedabad,Kavita Rao,StudioMax Over-Ear Headphones,2,2699.45,15,UPI,Delivered
+ORD-00393,2026-04-15,CUST-0034,Shreya Bansal,North,Delhi,Rohit Sharma,SmartGlow LED Bulb (Wi-Fi),4,800.16,5,UPI,Pending
+ORD-00394,2026-04-15,CUST-0104,Anjali Sharma,South,Chennai,Suresh Kumar,HomeView 360 Camera,3,5560.02,20,Credit Card,Delivered
+ORD-00395,2026-04-16,CUST-0156,Aman Joshi,South,Bengaluru,Arjun Mehta,ViewClear 24-inch Monitor,2,13112.34,10,UPI,Delivered
+ORD-00396,2026-04-18,CUST-0133,Vivek Gupta,South,Bengaluru,Priya Nair,KidSafe GPS Watch,3,3245.04,0,Cash on Delivery,Pending
+ORD-00397,2026-04-18,CUST-0150,Aditya Joshi,Central,Bhopal,Vikram Singh,SmartPlug Mini,3,875.53,15,UPI,Delivered
+ORD-00398,2026-04-19,CUST-0080,Rahul Gupta,East,Kolkata,Priya Nair,StudioMax Over-Ear Headphones,6,2721.83,5,Debit Card,Delivered
+ORD-00399,2026-04-19,CUST-0160,Pooja Nair,North,Delhi,Suresh Kumar,HomeView 360 Camera,1,5580.65,20,Debit Card,Delivered
+ORD-00400,2026-04-21,CUST-0034,Shreya Bansal,North,Delhi,Ananya Verma,HubConnect 7-in-1 USB-C Hub,1,1794.17,0,UPI,Delivered
+ORD-00401,2026-04-21,CUST-0147,Meera Sharma,East,Patna,Ananya Verma,ClickPro Wireless Mouse,1,814.99,5,UPI,Delivered
+ORD-00402,2026-04-22,CUST-0161,Divya Joshi,West,Ahmedabad,Suresh Kumar,MagGrip Phone Stand,1,355.78,15,Credit Card,Cancelled
+ORD-00403,2026-04-22,CUST-0197,Anjali Kumar,Central,Kota,Vikram Singh,EchoBeat Neckband,1,865.67,5,Cash on Delivery,Delivered
+ORD-00404,2026-04-23,CUST-0058,Manish Agarwal,South,Chennai,Suresh Kumar,HubConnect 7-in-1 USB-C Hub,4,1763.11,10,Credit Card,Delivered
+ORD-00405,2026-04-23,CUST-0057,Karan Agarwal,South,Chennai,Priya Nair,VoiceHub Smart Speaker,2,4459.82,10,Debit Card,Delivered
+ORD-00406,2026-04-23,CUST-0172,Tanvi Chauhan,East,Kolkata,Neha Gupta,ArmorShield Phone Case,2,360.67,15,UPI,Delivered
+ORD-00407,2026-04-24,CUST-0201,Sneha Reddy,South,Chennai,Suresh Kumar,HomeView 360 Camera,2,5703.13,0,Credit Card,Delivered
+ORD-00408,2026-04-24,CUST-0063,Vivek Chauhan,East,Kolkata,Vikram Singh,PulseFit Smartwatch,3,6327.17,0,UPI,Delivered
+ORD-00409,2026-04-24,CUST-0084,Rahul Singh,East,Kolkata,Kavita Rao,ClickPro Wireless Mouse,5,767.83,10,Debit Card,Cancelled
+ORD-00410,2026-04-24,CUST-0202,Aditya Verma,North,Delhi,Ananya Verma,SoundWave Bluetooth Speaker,2,1948.68,0,Cash on Delivery,Delivered
+ORD-00411,2026-04-26,CUST-0165,Aman Bansal,West,Ahmedabad,Kavita Rao,FitTrack Smart Band,4,1940.5,5,UPI,Cancelled
+ORD-00412,2026-04-26,CUST-0181,Pallavi Gupta,East,Kolkata,Priya Nair,HomeView 360 Camera,6,5573.72,5,Credit Card,Delivered
+ORD-00413,2026-04-26,CUST-0198,Divya Sharma,South,Chennai,Ananya Verma,DeskLite LED Lamp,1,1008.44,0,Cash on Delivery,Delivered
+ORD-00414,2026-04-26,CUST-0100,Riya Nair,East,Kolkata,Kavita Rao,ArmorShield Phone Case,3,339.34,0,Credit Card,Delivered
+ORD-00415,2026-04-27,CUST-0102,Shreya Iyer,West,Mumbai,Arjun Mehta,SmartPlug Mini,3,922.25,0,Cash on Delivery,Delivered
+ORD-00416,2026-04-27,CUST-0050,Yash Nair,West,Ahmedabad,Suresh Kumar,KidSafe GPS Watch,4,3237.59,5,Credit Card,Delivered
+ORD-00417,2026-04-27,CUST-0037,Anjali Singh,West,Mumbai,Neha Gupta,EchoBeat Neckband,5,889.91,20,Credit Card,Delivered
+ORD-00418,2026-04-29,CUST-0015,Yash Verma,North,Delhi,Neha Gupta,SmartPlug Mini,3,934.93,20,UPI,Delivered
+ORD-00419,2026-04-29,CUST-0193,Simran Agarwal,West,Mumbai,Kavita Rao,KidSafe GPS Watch,6,3384.43,20,UPI,Delivered
+ORD-00420,2026-04-30,CUST-0034,Shreya Bansal,North,Delhi,Priya Nair,DeskLite LED Lamp,2,1025.64,15,UPI,Returned
+ORD-00421,2026-04-30,CUST-0045,Karan Chauhan,West,Mumbai,Neha Gupta,HomeSecure Wi-Fi Camera,2,4055.26,15,Debit Card,Cancelled
+ORD-00422,2026-04-30,CUST-0019,Komal Nair,North,Delhi,Kavita Rao,TypeMaster Mechanical Keyboard,2,3176.85,10,Credit Card,Pending
+ORD-00423,2026-05-01,CUST-0078,Rajesh Joshi,North,Delhi,Ananya Verma,KidSafe GPS Watch,2,3211.55,20,UPI,Delivered
+ORD-00424,2026-05-02,CUST-0065,Rahul Kumar,South,Bengaluru,Arjun Mehta,ClickPro Wireless Mouse,2,806.15,20,Credit Card,Delivered
+ORD-00425,2026-05-03,CUST-0071,Rahul Iyer,West,Ahmedabad,Suresh Kumar,MagGrip Phone Stand,1,347.81,10,Net Banking,Delivered
+ORD-00426,2026-05-03,CUST-0167,Pallavi Agarwal,East,Patna,Vikram Singh,ActionCam Mini 4K,6,7369.78,5,Credit Card,Delivered
+ORD-00427,2026-05-04,CUST-0099,Isha Joshi,Central,Bhopal,Suresh Kumar,ClickPro Wireless Mouse,1,800.08,10,Credit Card,Delivered
+ORD-00428,2026-05-04,CUST-0157,Aditya Kumar,North,Delhi,Kavita Rao,ViewClear 24-inch Monitor,1,12509.19,15,UPI,Delivered
+ORD-00429,2026-05-07,CUST-0185,Shreya Singh,East,Kolkata,Priya Nair,HomeSecure Wi-Fi Camera,6,3871.81,15,Net Banking,Delivered
+ORD-00430,2026-05-08,CUST-0163,Komal Joshi,North,Delhi,Neha Gupta,PulseFit Smartwatch,2,6549.64,0,Credit Card,Delivered
+ORD-00431,2026-05-08,CUST-0056,Karan Iyer,North,Jaipur,Arjun Mehta,PowerCharge 20W Adapter,1,490.54,5,UPI,Delivered
+ORD-00432,2026-05-08,CUST-0042,Tanvi Rao,West,Mumbai,Ananya Verma,StudioMax Over-Ear Headphones,1,2907.66,15,Debit Card,Delivered
+ORD-00433,2026-05-08,CUST-0191,Rajesh Reddy,North,Delhi,Arjun Mehta,SoundWave Bluetooth Speaker,1,1883.58,5,Debit Card,Delivered
+ORD-00434,2026-05-08,CUST-0193,Simran Agarwal,West,Mumbai,Kavita Rao,ClickPro Wireless Mouse,2,830.47,10,Debit Card,Delivered
+ORD-00435,2026-05-08,CUST-0002,Sneha Gupta,South,Bengaluru,Suresh Kumar,MagGrip Phone Stand,2,350.61,15,UPI,Delivered
+ORD-00436,2026-05-09,CUST-0130,Tanvi Bansal,North,Jaipur,Suresh Kumar,HomeSecure Wi-Fi Camera,4,4038.43,10,UPI,Delivered
+ORD-00437,2026-05-09,CUST-0146,Rajesh Chauhan,North,Jaipur,Kavita Rao,SoundWave Bluetooth Speaker,3,1834.15,10,UPI,Delivered
+ORD-00438,2026-05-09,CUST-0103,Sneha Bansal,South,Bengaluru,Rohit Sharma,ViewClear 24-inch Monitor,1,13482.12,0,UPI,Delivered
+ORD-00439,2026-05-09,CUST-0041,Aditya Rao,South,Bengaluru,Arjun Mehta,DeskLite LED Lamp,1,972.7,5,Cash on Delivery,Returned
+ORD-00440,2026-05-09,CUST-0018,Pooja Rao,East,Kolkata,Ananya Verma,SmartGlow LED Bulb (Wi-Fi),1,775.64,10,UPI,Delivered
+ORD-00441,2026-05-11,CUST-0007,Sneha Kumar,Central,Kota,Neha Gupta,HubConnect 7-in-1 USB-C Hub,2,1868.52,0,Cash on Delivery,Delivered
+ORD-00442,2026-05-11,CUST-0059,Sneha Malhotra,West,Ahmedabad,Arjun Mehta,HubConnect 7-in-1 USB-C Hub,2,1824.86,10,UPI,Delivered
+ORD-00443,2026-05-11,CUST-0211,Divya Reddy,West,Mumbai,Vikram Singh,ClickPro Wireless Mouse,1,796.47,0,UPI,Returned
+ORD-00444,2026-05-12,CUST-0028,Pallavi Joshi,West,Ahmedabad,Neha Gupta,HubConnect 7-in-1 USB-C Hub,1,1767.13,0,Credit Card,Delivered
+ORD-00445,2026-05-12,CUST-0166,Simran Mehta,East,Patna,Vikram Singh,FlexiCable Type-C 1m,2,241.83,5,Credit Card,Delivered
+ORD-00446,2026-05-13,CUST-0096,Harsh Nair,South,Chennai,Neha Gupta,ViewClear 24-inch Monitor,3,12686.04,5,Credit Card,Delivered
+ORD-00447,2026-05-13,CUST-0111,Rahul Rao,Central,Kota,Arjun Mehta,HomeSecure Wi-Fi Camera,1,3867.71,5,Debit Card,Cancelled
+ORD-00448,2026-05-13,CUST-0082,Deepak Rao,North,Delhi,Ananya Verma,StudioMax Over-Ear Headphones,1,2875.03,0,UPI,Delivered
+ORD-00449,2026-05-13,CUST-0102,Shreya Iyer,West,Mumbai,Arjun Mehta,SoundWave Bluetooth Speaker,2,1918.85,0,UPI,Delivered
+ORD-00450,2026-05-15,CUST-0058,Manish Agarwal,South,Chennai,Arjun Mehta,ActionCam Mini 4K,1,7669.56,10,UPI,Delivered
+ORD-00451,2026-05-16,CUST-0093,Nikhil Kumar,East,Kolkata,Ananya Verma,StudioMax Over-Ear Headphones,1,2809.67,5,Debit Card,Delivered
+ORD-00452,2026-05-16,CUST-0034,Shreya Bansal,North,Delhi,Kavita Rao,KidSafe GPS Watch,2,3333.8,5,UPI,Delivered
+ORD-00453,2026-05-20,CUST-0167,Pallavi Agarwal,East,Patna,Arjun Mehta,ArmorShield Phone Case,2,335.89,15,Credit Card,Delivered
+ORD-00454,2026-05-20,CUST-0009,Sanjay Nair,South,Bengaluru,Vikram Singh,VoiceHub Smart Speaker,1,4591.57,0,Cash on Delivery,Pending
+ORD-00455,2026-05-21,CUST-0198,Divya Sharma,South,Chennai,Ananya Verma,EchoBeat Neckband,1,899.63,0,Cash on Delivery,Delivered
+ORD-00456,2026-05-22,CUST-0075,Rajesh Kumar,Central,Bhopal,Neha Gupta,MagGrip Phone Stand,2,356.61,15,UPI,Returned
+ORD-00457,2026-05-23,CUST-0126,Pallavi Singh,North,Jaipur,Suresh Kumar,PowerCharge 20W Adapter,2,494.02,0,Net Banking,Delivered
+ORD-00458,2026-05-23,CUST-0054,Rajesh Gupta,North,Delhi,Vikram Singh,FlexiCable Type-C 1m,2,254.25,0,Debit Card,Delivered
+ORD-00459,2026-05-23,CUST-0077,Karan Joshi,North,Delhi,Arjun Mehta,SoundWave Bluetooth Speaker,1,1831.54,10,Credit Card,Cancelled
+ORD-00460,2026-05-24,CUST-0142,Sanjay Iyer,Central,Bhopal,Arjun Mehta,PulseFit Smartwatch,1,6341.04,0,Debit Card,Delivered
+ORD-00461,2026-05-26,CUST-0086,Deepak Bansal,Central,Kota,Vikram Singh,StudioMax Over-Ear Headphones,5,2756.51,10,Debit Card,Delivered
+ORD-00462,2026-05-26,CUST-0213,Meera Reddy,West,Mumbai,Neha Gupta,FitTrack Smart Band,1,2049.46,0,Cash on Delivery,Delivered
+ORD-00463,2026-05-26,CUST-0089,Komal Verma,South,Chennai,Rohit Sharma,StudioMax Over-Ear Headphones,2,2801.33,15,Cash on Delivery,Delivered
+ORD-00464,2026-05-27,CUST-0096,Harsh Nair,South,Chennai,Suresh Kumar,ClickPro Wireless Mouse,2,774.57,0,Debit Card,Delivered
+ORD-00465,2026-05-29,CUST-0202,Aditya Verma,North,Delhi,Neha Gupta,MagGrip Phone Stand,1,342.45,0,Credit Card,Delivered
+ORD-00466,2026-05-30,CUST-0078,Rajesh Joshi,North,Delhi,Rohit Sharma,ClickPro Wireless Mouse,2,771.78,5,UPI,Delivered
+ORD-00467,2026-05-31,CUST-0174,Pallavi Mehta,West,Mumbai,Kavita Rao,HomeView 360 Camera,2,5414.72,0,Cash on Delivery,Delivered
+ORD-00468,2026-06-01,CUST-0096,Harsh Nair,South,Chennai,Kavita Rao,SmartPlug Mini,1,925.64,10,Credit Card,Delivered
+ORD-00469,2026-06-01,CUST-0144,Yash Singh,South,Bengaluru,Suresh Kumar,ActionCam Mini 4K,1,7263.89,0,Cash on Delivery,Delivered
+ORD-00470,2026-06-02,CUST-0165,Aman Bansal,West,Ahmedabad,Rohit Sharma,ActionCam Mini 4K,1,7399.12,20,Net Banking,Delivered
+ORD-00471,2026-06-02,CUST-0040,Harsh Agarwal,Central,Bhopal,Rohit Sharma,ViewClear 24-inch Monitor,3,13129.37,15,UPI,Cancelled
+ORD-00472,2026-06-04,CUST-0014,Harsh Joshi,East,Kolkata,Suresh Kumar,TypeMaster Mechanical Keyboard,2,3218.94,0,Debit Card,Delivered
+ORD-00473,2026-06-04,CUST-0142,Sanjay Iyer,Central,Bhopal,Suresh Kumar,KidSafe GPS Watch,3,3349.27,15,Debit Card,Delivered
+ORD-00474,2026-06-04,CUST-0041,Aditya Rao,South,Bengaluru,Kavita Rao,FitTrack Smart Band,5,2063.37,5,Cash on Delivery,Cancelled
+ORD-00475,2026-06-06,CUST-0075,Rajesh Kumar,Central,Bhopal,Arjun Mehta,ClickPro Wireless Mouse,1,795.48,15,Credit Card,Delivered
+ORD-00476,2026-06-07,CUST-0109,Divya Bansal,South,Bengaluru,Kavita Rao,SmartPlug Mini,2,878.54,5,Credit Card,Delivered
+ORD-00477,2026-06-07,CUST-0053,Sanjay Sharma,Central,Bhopal,Vikram Singh,ViewClear 24-inch Monitor,1,13226.08,10,Cash on Delivery,Pending
+ORD-00478,2026-06-07,CUST-0168,Karan Nair,West,Mumbai,Arjun Mehta,FlexiCable Type-C 1m,1,241.06,0,UPI,Delivered
+ORD-00479,2026-06-07,CUST-0045,Karan Chauhan,West,Mumbai,Ananya Verma,ActionCam Mini 4K,4,7714.2,0,Credit Card,Delivered
+ORD-00480,2026-06-09,CUST-0050,Yash Nair,West,Ahmedabad,Arjun Mehta,FlexiCable Type-C 1m,4,249.3,0,Debit Card,Delivered
+ORD-00481,2026-06-09,CUST-0153,Anjali Nair,North,Jaipur,Arjun Mehta,DeskLite LED Lamp,2,986.85,15,Debit Card,Cancelled
+ORD-00482,2026-06-10,CUST-0108,Manish Bansal,West,Ahmedabad,Arjun Mehta,ActionCam Mini 4K,4,7241.84,0,UPI,Delivered
+ORD-00483,2026-06-11,CUST-0197,Anjali Kumar,Central,Kota,Rohit Sharma,KidSafe GPS Watch,2,3340.65,10,UPI,Delivered
+ORD-00484,2026-06-11,CUST-0187,Simran Bansal,North,Jaipur,Arjun Mehta,HubConnect 7-in-1 USB-C Hub,1,1868.09,20,UPI,Delivered
+ORD-00485,2026-06-11,CUST-0088,Komal Bansal,Central,Kota,Arjun Mehta,KidSafe GPS Watch,5,3253.18,10,Net Banking,Delivered
+ORD-00486,2026-06-11,CUST-0181,Pallavi Gupta,East,Kolkata,Ananya Verma,TypeMaster Mechanical Keyboard,3,3151.19,0,UPI,Delivered
+ORD-00487,2026-06-12,CUST-0075,Rajesh Kumar,Central,Bhopal,Arjun Mehta,DeskLite LED Lamp,1,1028.2,0,UPI,Delivered
+ORD-00488,2026-06-12,CUST-0127,Nikhil Reddy,Central,Kota,Priya Nair,KidSafe GPS Watch,2,3202.8,0,Credit Card,Cancelled
+ORD-00489,2026-06-12,CUST-0102,Shreya Iyer,West,Mumbai,Rohit Sharma,PulseFit Smartwatch,4,6339.91,15,Cash on Delivery,Delivered
+ORD-00490,2026-06-14,CUST-0227,Riya Singh,Central,Kota,Neha Gupta,BassPro Wireless Earbuds,3,1271.85,10,Debit Card,Delivered
+ORD-00491,2026-06-16,CUST-0165,Aman Bansal,West,Ahmedabad,Neha Gupta,ActionCam Mini 4K,4,7575.32,0,UPI,Delivered
+ORD-00492,2026-06-16,CUST-0174,Pallavi Mehta,West,Mumbai,Arjun Mehta,VoiceHub Smart Speaker,2,4321.68,20,Cash on Delivery,Cancelled
+ORD-00493,2026-06-16,CUST-0206,Sanjay Joshi,East,Kolkata,Vikram Singh,HomeSecure Wi-Fi Camera,2,4134.71,0,Debit Card,Delivered
+ORD-00494,2026-06-17,CUST-0137,Komal Agarwal,Central,Kota,Ananya Verma,BassPro Wireless Earbuds,1,1312.46,0,Debit Card,Cancelled
+ORD-00495,2026-06-17,CUST-0174,Pallavi Mehta,West,Mumbai,Priya Nair,KidSafe GPS Watch,2,3318.24,5,UPI,Delivered
+ORD-00496,2026-06-18,CUST-0020,Shreya Chauhan,South,Bengaluru,Kavita Rao,FlexiCable Type-C 1m,2,250.27,5,Debit Card,Returned
+ORD-00497,2026-06-21,CUST-0027,Aditya Gupta,Central,Kota,Suresh Kumar,VoiceHub Smart Speaker,4,4413.81,5,UPI,Delivered
+ORD-00498,2026-06-21,CUST-0030,Karan Malhotra,North,Delhi,Neha Gupta,HomeSecure Wi-Fi Camera,1,4065.31,10,Cash on Delivery,Delivered
+ORD-00499,2026-06-22,CUST-0024,Rahul Verma,South,Chennai,Neha Gupta,HomeSecure Wi-Fi Camera,4,4093.59,5,Cash on Delivery,Cancelled
+ORD-00500,2026-06-23,CUST-0053,Sanjay Sharma,Central,Bhopal,Suresh Kumar,FlexiCable Type-C 1m,6,248.47,0,Net Banking,Delivered
+ORD-00501,2026-06-23,CUST-0176,Aman Verma,East,Kolkata,Kavita Rao,FitTrack Smart Band,4,2026.49,5,Net Banking,Cancelled
+ORD-00502,2026-06-25,CUST-0199,Yash Bansal,West,Mumbai,Vikram Singh,PowerCharge 20W Adapter,1,501.53,10,UPI,Delivered
+ORD-00503,2026-06-25,CUST-0115,Anjali Joshi,Central,Bhopal,Priya Nair,MagGrip Phone Stand,5,354.1,5,Cash on Delivery,Pending
+ORD-00504,2026-06-26,CUST-0167,Pallavi Agarwal,East,Patna,Ananya Verma,HomeView 360 Camera,1,5471.5,20,UPI,Delivered
+ORD-00505,2026-06-27,CUST-0074,Pallavi Rao,North,Delhi,Ananya Verma,StudioMax Over-Ear Headphones,2,2800.58,5,Credit Card,Cancelled
+ORD-00506,2026-06-27,CUST-0018,Pooja Rao,East,Kolkata,Neha Gupta,MagGrip Phone Stand,2,361.55,0,UPI,Delivered
+ORD-00507,2026-06-27,CUST-0217,Simran Reddy,South,Chennai,Neha Gupta,SmartGlow LED Bulb (Wi-Fi),2,821.88,0,Credit Card,Delivered
+ORD-00508,2026-06-27,CUST-0176,Aman Verma,East,Kolkata,Ananya Verma,ActionCam Mini 4K,2,7354.31,15,UPI,Delivered
+ORD-00509,2026-06-27,CUST-0082,Deepak Rao,North,Delhi,Neha Gupta,FitTrack Smart Band,3,1989.2,0,Debit Card,Delivered
+ORD-00510,2026-06-27,CUST-0122,Manish Mehta,West,Mumbai,Vikram Singh,SoundWave Bluetooth Speaker,2,1918.32,15,Credit Card,Delivered
+ORD-00511,2026-06-28,CUST-0053,Sanjay Sharma,Central,Bhopal,Ananya Verma,ViewClear 24-inch Monitor,5,13359.99,0,Debit Card,Delivered
+ORD-00512,2026-06-28,CUST-0220,Anjali Rao,Central,Kota,Priya Nair,MagGrip Phone Stand,3,342.55,5,UPI,Cancelled
+ORD-00513,2026-07-01,CUST-0139,Pooja Chauhan,West,Ahmedabad,Neha Gupta,PowerCharge 20W Adapter,1,518.67,5,UPI,Pending
+ORD-00514,2026-07-01,CUST-0094,Karan Reddy,West,Ahmedabad,Ananya Verma,PulseFit Smartwatch,2,6434.7,15,Credit Card,Delivered
+ORD-00515,2026-07-02,CUST-0204,Deepak Verma,West,Ahmedabad,Priya Nair,EchoBeat Neckband,2,926.91,5,Net Banking,Delivered
+ORD-00516,2026-07-02,CUST-0002,Sneha Gupta,South,Bengaluru,Priya Nair,DeskLite LED Lamp,3,984.29,5,UPI,Delivered
+ORD-00517,2026-07-02,CUST-0103,Sneha Bansal,South,Bengaluru,Suresh Kumar,KidSafe GPS Watch,3,3324.72,20,Net Banking,Delivered
+ORD-00518,2026-07-04,CUST-0158,Deepak Chauhan,East,Patna,Kavita Rao,SmartPlug Mini,1,901.32,5,UPI,Delivered
+ORD-00519,2026-07-04,CUST-0024,Rahul Verma,South,Chennai,Vikram Singh,SmartPlug Mini,4,901.83,0,Cash on Delivery,Delivered
+ORD-00520,2026-07-04,CUST-0025,Manish Reddy,West,Ahmedabad,Ananya Verma,VoiceHub Smart Speaker,1,4656.57,0,UPI,Delivered
+ORD-00521,2026-07-05,CUST-0025,Manish Reddy,West,Ahmedabad,Priya Nair,SmartGlow LED Bulb (Wi-Fi),2,809.46,10,UPI,Cancelled
+ORD-00522,2026-07-09,CUST-0063,Vivek Chauhan,East,Kolkata,Priya Nair,SoundWave Bluetooth Speaker,3,1831.01,5,Debit Card,Delivered
+ORD-00523,2026-07-09,CUST-0025,Manish Reddy,West,Ahmedabad,Neha Gupta,StudioMax Over-Ear Headphones,3,2779.74,10,UPI,Delivered
+ORD-00524,2026-07-11,CUST-0069,Meera Gupta,West,Mumbai,Rohit Sharma,DeskLite LED Lamp,4,974.08,10,Debit Card,Delivered
+ORD-00525,2026-07-11,CUST-0031,Aditya Reddy,South,Chennai,Rohit Sharma,VoiceHub Smart Speaker,1,4608.54,20,Cash on Delivery,Delivered
+ORD-00526,2026-07-12,CUST-0182,Manish Gupta,West,Ahmedabad,Suresh Kumar,SmartGlow LED Bulb (Wi-Fi),4,794.04,0,UPI,Delivered
+ORD-00527,2026-07-13,CUST-0145,Anjali Mehta,East,Patna,Arjun Mehta,ActionCam Mini 4K,5,7397.97,10,UPI,Delivered
+ORD-00528,2026-07-13,CUST-0202,Aditya Verma,North,Delhi,Priya Nair,MagGrip Phone Stand,3,346.55,5,Credit Card,Delivered
+ORD-00529,2026-07-13,CUST-0031,Aditya Reddy,South,Chennai,Kavita Rao,StudioMax Over-Ear Headphones,2,2858.17,5,UPI,Delivered
+ORD-00530,2026-07-14,CUST-0094,Karan Reddy,West,Ahmedabad,Vikram Singh,VoiceHub Smart Speaker,5,4370.43,10,Net Banking,Delivered
+ORD-00531,2026-07-14,CUST-0093,Nikhil Kumar,East,Kolkata,Neha Gupta,PowerCharge 20W Adapter,4,497.52,5,UPI,Delivered
+ORD-00532,2026-07-15,CUST-0116,Vivek Iyer,Central,Bhopal,Neha Gupta,HomeSecure Wi-Fi Camera,1,4104.27,5,Debit Card,Delivered
+ORD-00533,2026-07-15,CUST-0199,Yash Bansal,West,Mumbai,Kavita Rao,HomeSecure Wi-Fi Camera,4,4114.82,5,UPI,Delivered
+ORD-00534,2026-07-16,CUST-0140,Rahul Malhotra,South,Chennai,Rohit Sharma,FlexiCable Type-C 1m,5,248.24,10,Credit Card,Delivered
+ORD-00535,2026-07-17,CUST-0141,Harsh Gupta,East,Patna,Neha Gupta,ActionCam Mini 4K,1,7691.93,20,Debit Card,Delivered
+ORD-00536,2026-07-17,CUST-0062,Pallavi Sharma,North,Delhi,Vikram Singh,KidSafe GPS Watch,3,3204.09,0,Debit Card,Delivered
+ORD-00537,2026-07-18,CUST-0034,Shreya Bansal,North,Delhi,Priya Nair,PulseFit Smartwatch,4,6613.81,15,Credit Card,Cancelled
+ORD-00538,2026-07-18,CUST-0080,Rahul Gupta,East,Kolkata,Ananya Verma,SoundWave Bluetooth Speaker,1,1958.13,0,Net Banking,Delivered
+ORD-00539,2026-07-19,CUST-0190,Karan Mehta,West,Mumbai,Ananya Verma,PowerCharge 20W Adapter,2,517.93,0,Credit Card,Cancelled
+ORD-00540,2026-07-19,CUST-0054,Rajesh Gupta,North,Delhi,Neha Gupta,PulseFit Smartwatch,4,6556.33,5,Debit Card,Cancelled
+ORD-00541,2026-07-19,CUST-0229,Harsh Singh,North,Jaipur,Ananya Verma,ClickPro Wireless Mouse,1,791.75,0,Debit Card,Pending
+ORD-00542,2026-07-19,CUST-0149,Vivek Rao,West,Mumbai,Vikram Singh,SmartPlug Mini,2,869.48,0,UPI,Delivered
+ORD-00543,2026-07-20,CUST-0164,Isha Agarwal,West,Ahmedabad,Suresh Kumar,SmartGlow LED Bulb (Wi-Fi),2,786.35,20,Cash on Delivery,Delivered
+ORD-00544,2026-07-22,CUST-0182,Manish Gupta,West,Ahmedabad,Neha Gupta,FitTrack Smart Band,1,2013.22,0,UPI,Delivered
+ORD-00545,2026-07-23,CUST-0213,Meera Reddy,West,Mumbai,Vikram Singh,SmartPlug Mini,3,896.78,10,Cash on Delivery,Delivered
+ORD-00546,2026-07-23,CUST-0145,Anjali Mehta,East,Patna,Priya Nair,MagGrip Phone Stand,1,358.16,0,Cash on Delivery,Delivered
+ORD-00547,2026-07-23,CUST-0072,Anjali Chauhan,Central,Kota,Ananya Verma,SmartPlug Mini,6,879.43,5,Net Banking,Delivered
+ORD-00548,2026-07-23,CUST-0135,Yash Agarwal,West,Mumbai,Priya Nair,ArmorShield Phone Case,2,338.09,10,Debit Card,Pending
+ORD-00549,2026-07-26,CUST-0010,Sanjay Verma,North,Jaipur,Ananya Verma,HubConnect 7-in-1 USB-C Hub,1,1762.77,10,UPI,Delivered
+ORD-00550,2026-07-26,CUST-0168,Karan Nair,West,Mumbai,Vikram Singh,PowerCharge 20W Adapter,1,507.44,15,Net Banking,Delivered
+ORD-00551,2026-07-26,CUST-0053,Sanjay Sharma,Central,Bhopal,Arjun Mehta,FitTrack Smart Band,3,2069.32,10,UPI,Delivered
+ORD-00552,2026-07-26,CUST-0173,Nikhil Gupta,North,Delhi,Arjun Mehta,HomeSecure Wi-Fi Camera,4,3892.41,0,Credit Card,Delivered
+ORD-00553,2026-07-27,CUST-0198,Divya Sharma,South,Chennai,Priya Nair,TypeMaster Mechanical Keyboard,3,3196.19,5,Debit Card,Pending
+ORD-00554,2026-07-28,CUST-0224,Manish Chauhan,South,Chennai,Vikram Singh,SoundWave Bluetooth Speaker,2,1908.25,20,Credit Card,Delivered
+ORD-00555,2026-07-28,CUST-0124,Aman Nair,East,Kolkata,Suresh Kumar,KidSafe GPS Watch,2,3390.79,0,Debit Card,Delivered
+ORD-00556,2026-07-29,CUST-0060,Manish Verma,North,Jaipur,Vikram Singh,StudioMax Over-Ear Headphones,1,2800.28,5,Debit Card,Delivered
+ORD-00557,2026-07-30,CUST-0126,Pallavi Singh,North,Jaipur,Kavita Rao,SmartGlow LED Bulb (Wi-Fi),2,772.32,0,Net Banking,Delivered
+ORD-00558,2026-07-31,CUST-0207,Rahul Joshi,North,Delhi,Suresh Kumar,TypeMaster Mechanical Keyboard,2,3167.39,5,UPI,Delivered
+ORD-00559,2026-07-31,CUST-0141,Harsh Gupta,East,Patna,Priya Nair,ViewClear 24-inch Monitor,1,13128.12,0,Credit Card,Delivered
+ORD-00560,2026-07-31,CUST-0161,Divya Joshi,West,Ahmedabad,Arjun Mehta,ViewClear 24-inch Monitor,2,12931.6,0,UPI,Delivered
